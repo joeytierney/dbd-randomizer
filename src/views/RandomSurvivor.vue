@@ -10,7 +10,7 @@
       />
     </div>
     <img
-      src="https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/icons/character-empty.png"
+      src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/general-icons/random-characte-portrait.png"
       alt="Random Survivor Placeholder Portrait"
       class="questionMark"
       id="questionPlaceholder"
@@ -21,7 +21,7 @@
     <br />
     <div class="survButton">
       <img
-        src="https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/icons/survivor-icon.png"
+        src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/general-icons/survivor-button.png"
         alt="Click here for a random survivor!"
         @click="rndSurv"
         class="randomSurvButton"
@@ -31,7 +31,7 @@
 </template>
 
 <script>
-import { survivorsArray } from "./utils/SurvivorArray.js";
+import { survivorsArray } from "../utils/survivor/SurvivorArray.js";
 export default {
   data() {
     return {
