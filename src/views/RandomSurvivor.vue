@@ -10,7 +10,7 @@
       />
     </div>
     <img
-      src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/general-icons/random-characte-portrait.png"
+      src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/general-icons/random-character-portrait.png"
       alt="Random Survivor Placeholder Portrait"
       class="questionMark"
       id="questionPlaceholder"
