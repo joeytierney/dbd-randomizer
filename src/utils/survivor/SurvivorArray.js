@@ -30,12 +30,6 @@ export const survivorsArray = [
     dlc: "CHAPTER 1: The Last Breath",
   },
   {
-    name: 'William "Bill" Overbeck',
-    image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/06-bill-overbeck.png",
-    dlc: "PARAGRAPH 1: Left Behind",
-  },
-  {
     name: "Laurie Strode",
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/08-laurie-strode.png",
@@ -46,6 +40,12 @@ export const survivorsArray = [
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/09-ace-visconti.png",
     dlc: "CHAPTER 3: Of Flesh and Mud",
+  },
+  {
+    name: 'William "Bill" Overbeck',
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/06-bill-overbeck.png",
+    dlc: "CHAPTER 3.5: Left Behind",
   },
   {
     name: "Feng Min",
@@ -99,7 +99,7 @@ export const survivorsArray = [
     name: "Ashley J. Williams",
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/17-ash-williams.png",
-    dlc: "PARAGRAPH 3: Ash vs Evil Dead",
+    dlc: "CHAPTER 11.5: Ash vs Evil Dead",
   },
   {
     name: "Nancy Wheeler",
@@ -165,7 +165,7 @@ export const survivorsArray = [
     name: "Mikaela Reid",
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/28-mikaela-reid.png",
-    dlc: "PARAGRAPH 4: Hour of the Witch",
+    dlc: "CHAPTER 21.5: Hour of the Witch",
   },
   {
     name: "Jonah Vasquez",
