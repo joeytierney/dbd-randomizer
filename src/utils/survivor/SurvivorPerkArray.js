@@ -558,4 +558,93 @@ export const survivorPerks = [
         survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/31-haddie-kaur.png",
       },
 
+      // **************************************
+      // GENERAL SURVIVOR PERKS SECTION
+      // **************************************
+
+      {
+        name: "Dark Sense",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/dark-sense.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+      {
+        name: "Déjà Vu",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/deja-vu.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+      {
+        name: "Hope",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/hope.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+      {
+        name: "Kindred",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/kindred.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+      {
+        name: "Lightweight",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/lightweight.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+      {
+        name: "No One Left Behind",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/no-one-left-behind.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+      {
+        name: "Plunderers Instinct",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/plunderers-instinct.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+      {
+        name: "Premonition",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/premonition.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+      {
+        name: "Resilience",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/resilience.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+      {
+        name: "Slippery Meat",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/slippery-meat.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+      {
+        name: "Small Game",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/small-game.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+      {
+        name: "Spine Chill",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/spine-chill.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+      {
+        name: "This Is Not Happening",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/this-is-not-happening.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+      {
+        name: "We'll Make It",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/well-make-it.png",
+        teachable: "All Survivors",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/00-all-survivors.png",
+      },
+
 ]
