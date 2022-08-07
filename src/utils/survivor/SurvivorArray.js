@@ -114,12 +114,6 @@ export const survivorsArray = [
     dlc: "CHAPTER 13: Stranger Things",
   },
   {
-    name: "Jonathan Byers",
-    image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/19a-jonathan-byers.png",
-    dlc: "LEGENDARY SKIN FOR: Steve Harrington",
-  },
-  {
     name: "Yui Kimura",
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/20-yui-kimura.png",
@@ -136,24 +130,6 @@ export const survivorsArray = [
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/22-cheryl-mason.png",
     dlc: "CHAPTER 16: Silent Hill",
-  },
-  {
-    name: "Lisa Garland",
-    image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/22a-lisa-garland.png",
-    dlc: "LEGENDARY SKIN FOR: Cheryl Mason",
-  },
-  {
-    name: "Cybil Bennett",
-    image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/22b-cybil-bennett.png",
-    dlc: "LEGENDARY SKIN FOR: Cheryl Mason",
-  },
-  {
-    name: "James Sunderland",
-    image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/22c-james-sunderland.png",
-    dlc: "LEGENDARY SKIN FOR: Cheryl Mason",
   },
   {
     name: "Felix Richter",
@@ -180,22 +156,10 @@ export const survivorsArray = [
     dlc: "CHAPTER 20: Resident Evil",
   },
   {
-    name: "Claire Redfield",
-    image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/26a-claire-redfield.png",
-    dlc: "LEGENDARY SKIN FOR: Jill Valentine",
-  },
-  {
     name: "Leon S. Kennedy",
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/27-leon-s-kennedy.png",
     dlc: "CHAPTER 20: Resident Evil",
-  },
-  {
-    name: "Chris Redfield",
-    image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/27a-chris-redfield.png",
-    dlc: "LEGENDARY SKIN FOR: Leon S. Kennedy",
   },
   {
     name: "Mikaela Reid",
@@ -220,5 +184,46 @@ export const survivorsArray = [
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/31-haddie-kaur.png",
     dlc: "CHAPTER 24: Roots of Dread",
+  },
+
+  // **************************************
+  // LEGENDARY AND ULTRA-RARE SKINS SECTION
+  // **************************************
+
+  {
+    name: "Jonathan Byers",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/19a-jonathan-byers.png",
+    dlc: "LEGENDARY SKIN FOR: Steve Harrington",
+  },
+  {
+    name: "Lisa Garland",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/22a-lisa-garland.png",
+    dlc: "LEGENDARY SKIN FOR: Cheryl Mason",
+  },
+  {
+    name: "Cybil Bennett",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/22b-cybil-bennett.png",
+    dlc: "LEGENDARY SKIN FOR: Cheryl Mason",
+  },
+  {
+    name: "James Sunderland",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/22c-james-sunderland.png",
+    dlc: "LEGENDARY SKIN FOR: Cheryl Mason",
+  },
+  {
+    name: "Claire Redfield",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/26a-claire-redfield.png",
+    dlc: "LEGENDARY SKIN FOR: Jill Valentine",
+  },
+  {
+    name: "Chris Redfield",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/27a-chris-redfield.png",
+    dlc: "LEGENDARY SKIN FOR: Leon S. Kennedy",
   },
 ];
