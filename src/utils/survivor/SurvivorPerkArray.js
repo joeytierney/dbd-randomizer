@@ -125,4 +125,58 @@ export const survivorPerks = [
         teachable: "Ace Visconti Teachable Perk",
         survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/09-ace-visconti.png",
     },
+    {
+        name: "Left Behind",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/left-behind.png",
+        teachable: 'William "Bill" Overbeck Teachable Perk',
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/06-bill-overbeck.png",
+      },
+      {
+        name: "Borrowed Time",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/borrowed-time.png",
+        teachable: 'William "Bill" Overbeck Teachable Perk',
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/06-bill-overbeck.png",
+      },
+      {
+        name: "Unbreakable",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/unbreakable.png",
+        teachable: 'William "Bill" Overbeck Teachable Perk',
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/06-bill-overbeck.png",
+      },
+      {
+        name: "Technician",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/technician.png",
+        teachable: "Feng Min Teachable Perk",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/10-feng-min.png",
+      },
+      {
+        name: "Lithe",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/lithe.png",
+        teachable: "Feng Min Teachable Perk",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/10-feng-min.png",
+      },
+      {
+        name: "Alert",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/alert.png",
+        teachable: "Feng Min Teachable Perk",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/10-feng-min.png",
+    },
+    {
+        name: "We're Gonna Live Forever",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/were-gonna-live-forever.png",
+        teachable: "David King Teachable Perk",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/07-david-king.png",
+      },
+      {
+        name: "Dead Hard",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/dead-hard.png",
+        teachable: "David King Teachable Perk",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/07-david-king.png",
+      },
+      {
+        name: "No Mither",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/no-mither.png",
+        teachable: "David King Teachable Perk",
+        survivor: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/survivors/07-david-king.png",
+      },
 ]
