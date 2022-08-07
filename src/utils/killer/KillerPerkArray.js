@@ -503,4 +503,87 @@ export const killerPerks = [
         teachable: "The Dredge Teachable Perk",
         killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/28-the-dredge.png",
     },
+
+    // **************************************
+    // GENERAL KILLER PERKS SECTION
+    // **************************************
+
+    {
+        name: "Bitter Murmur",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/bitter-murmur.png",
+        teachable: "All Killers",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/00-all-killers.png",
+    },
+    {
+        name: "Deerstalker",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/deerstalker.png",
+        teachable: "All Killers",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/00-all-killers.png",
+    },
+    {
+        name: "Distressing",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/distressing.png",
+        teachable: "All Killers",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/00-all-killers.png",
+    },
+    {
+        name: "Hex: No One Escapes Death",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/hex-no-one-escapes-death.png",
+        teachable: "All Killers",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/00-all-killers.png",
+    },
+    {
+        name: "Hex: Thrill of the Hunt",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/hex-thrill-of-the-hunt.png",
+        teachable: "All Killers",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/00-all-killers.png",
+    },
+    {
+        name: "Insidious",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/insidious.png",
+        teachable: "All Killers",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/00-all-killers.png",
+    },
+    {
+        name: "Iron Grasp",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/iron-grasp.png",
+        teachable: "All Killers",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/00-all-killers.png",
+    },
+    {
+        name: "Scourge Hook: Monstrous Shrine",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/monstrous-shrine.png",
+        teachable: "All Killers",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/00-all-killers.png",
+    },
+    {
+        name: "Shattered Hope",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/shattered-hope.png",
+        teachable: "All Killers",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/00-all-killers.png",
+    },
+    {
+        name: "Sloppy Butcher",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/sloppy-butcher.png",
+        teachable: "All Killers",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/00-all-killers.png",
+    },
+    {
+        name: "Spies from the Shadows",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/spies-from-the-shadows.png",
+        teachable: "All Killers",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/00-all-killers.png",
+    },
+    {
+        name: "Unrelenting",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/unrelenting.png",
+        teachable: "All Killers",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/00-all-killers.png",
+    },
+    {
+        name: "Whispers",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/whispers.png",
+        teachable: "All Killers",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/00-all-killers.png",
+    },
 ]
