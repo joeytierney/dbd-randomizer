@@ -141,7 +141,7 @@ export const killersArray = [
         name: "The Nemesis",
         image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/24-the-nemesis.png",
         realName: "Nemesis T-Type",
-        dlc: "CHAPTER 20: Resident Evil",
+        dlc: "CHAPTER 20: Resident Evil™",
       },
       {
         name: "The Cenobite",
