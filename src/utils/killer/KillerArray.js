@@ -6,12 +6,6 @@ export const killersArray = [
         dlc: "Base Game",
       },
       {
-        name: "The Krampus",
-        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/01a-the-krampus.png",
-        realName: "Holiday Horror",
-        dlc: "ULTRA-RARE SKIN FOR: The Trapper",
-      },
-      {
         name: "The Wraith",
         image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/02-the-wraith.png",
         realName: "Philip Ojomo",
@@ -48,28 +42,10 @@ export const killersArray = [
         dlc: "CHAPTER 4: Spark of Madness",
       },
       {
-        name: "The Look-See",
-        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/07a-the-look-see.png",
-        realName: "The Crypt TV",
-        dlc: "LEGENDARY SKIN FOR: The Doctor",
-      },
-      {
         name: "The Huntress",
         image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/08-the-huntress.png",
         realName: "Anna",
         dlc: "CHAPTER 5: A Lullaby for the Dark",
-      },
-      {
-        name: "The Mordeo",
-        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/08a-the-mordeo.png",
-        realName: "The Crypt TV",
-        dlc: "LEGENDARY SKIN FOR: The Huntress",
-      },
-      {
-        name: "The Baba Yaga",
-        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/08b-the-baba-yaga.png",
-        realName: "Modern Tales",
-        dlc: "ULTRA-RARE SKIN FOR: The Huntress",
       },
       {
         name: "The Cannibal",
@@ -102,12 +78,6 @@ export const killersArray = [
         dlc: "CHAPTER 9: Shattered Bloodline",
       },
       {
-        name: "The War Hammer Titan",
-        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/13a-the-war-hammer-titan.png",
-        realName: "Lara Tybur",
-        dlc: "ULTRA-RARE SKIN FOR: The Spirit",
-      },
-      {
         name: "The Legion",
         image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/14-the-legion.png",
         realName: "Frank, Julie, Susie & Joey",
@@ -138,18 +108,6 @@ export const killersArray = [
         dlc: "CHAPTER 14: Cursed Legacy",
       },
       {
-        name: "The Minotaur",
-        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/18a-the-minotaur.png",
-        realName: "Greek Legends",
-        dlc: "ULTRA-RARE SKIN FOR: The Oni",
-      },
-      {
-        name: "The Armoured Titan",
-        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/18b-the-armoured-titan.png",
-        realName: "Reiner Braun",
-        dlc: "ULTRA-RARE SKIN FOR: The Oni",
-      },
-      {
         name: "The Deathslinger",
         image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/19-the-deathslinger.png",
         realName: "Caleb Quinn",
@@ -166,12 +124,6 @@ export const killersArray = [
         image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/21-the-blight.png",
         realName: "Talbot Grimes",
         dlc: "CHAPTER 17: Descend Beyond",
-      },
-      {
-        name: "The Ferryman",
-        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/21a-the-ferryman.png",
-        realName: "Greek Legends",
-        dlc: "UTRA-RARE SKIN FOR: The Blight",
       },
       {
         name: "The Twins",
@@ -198,12 +150,6 @@ export const killersArray = [
         dlc: "CHAPTER 21: Hellraiser™",
       },
       {
-        name: "The Chatterer",
-        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/25a-the-chatterer.png",
-        realName: "Jim",
-        dlc: "LEGENDARY SKIN FOR: The Cenobite",
-      },
-      {
         name: "The Artist",
         image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/26-the-artist.png",
         realName: "Carmina Mora",
@@ -220,5 +166,64 @@ export const killersArray = [
         image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/28-the-dredge.png",
         realName: "Unknown",
         dlc: "CHAPTER 24: Roots of Dread",
+      },
+
+      // **************************************
+      // LEGENDARY AND ULTRA-RARE SKINS SECTION
+      // **************************************
+
+      {
+        name: "The Krampus",
+        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/01a-the-krampus.png",
+        realName: "Holiday Horror",
+        dlc: "ULTRA-RARE SKIN FOR: The Trapper",
+      },
+      {
+        name: "The Look-See",
+        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/07a-the-look-see.png",
+        realName: "The Crypt TV",
+        dlc: "LEGENDARY SKIN FOR: The Doctor",
+      },
+      {
+        name: "The Mordeo",
+        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/08a-the-mordeo.png",
+        realName: "The Crypt TV",
+        dlc: "LEGENDARY SKIN FOR: The Huntress",
+      },
+      {
+        name: "The Baba Yaga",
+        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/08b-the-baba-yaga.png",
+        realName: "Modern Tales",
+        dlc: "ULTRA-RARE SKIN FOR: The Huntress",
+      },
+      {
+        name: "The War Hammer Titan",
+        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/13a-the-war-hammer-titan.png",
+        realName: "Lara Tybur",
+        dlc: "ULTRA-RARE SKIN FOR: The Spirit",
+      },
+      {
+        name: "The Minotaur",
+        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/18a-the-minotaur.png",
+        realName: "Greek Legends",
+        dlc: "ULTRA-RARE SKIN FOR: The Oni",
+      },
+      {
+        name: "The Armoured Titan",
+        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/18b-the-armoured-titan.png",
+        realName: "Reiner Braun",
+        dlc: "ULTRA-RARE SKIN FOR: The Oni",
+      },
+      {
+        name: "The Ferryman",
+        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/21a-the-ferryman.png",
+        realName: "Greek Legends",
+        dlc: "UTRA-RARE SKIN FOR: The Blight",
+      },
+      {
+        name: "The Chatterer",
+        image: "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/25a-the-chatterer.png",
+        realName: "Jim",
+        dlc: "LEGENDARY SKIN FOR: The Cenobite",
       },
 ]
