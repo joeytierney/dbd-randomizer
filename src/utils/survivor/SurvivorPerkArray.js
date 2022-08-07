@@ -2,7 +2,7 @@ export const survivorPerks = [
   {
     name: "Bond",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/bond.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/bond.png",
     teachable: "Dwight Fairfield Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/01-dwight-fairfield.png",
@@ -10,7 +10,7 @@ export const survivorPerks = [
   {
     name: "Prove Thyself",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/prove-thyself.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/prove-thyself.png",
     teachable: "Dwight Fairfield Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/01-dwight-fairfield.png",
@@ -18,7 +18,7 @@ export const survivorPerks = [
   {
     name: "Leader",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/leader.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/leader.png",
     teachable: "Dwight Fairfield Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/01-dwight-fairfield.png",
@@ -26,7 +26,7 @@ export const survivorPerks = [
   {
     name: "Quick and Quiet",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/quick-and-quiet.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/quick-and-quiet.png",
     teachable: "Meg Thomas Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/02-meg-thomas.png",
@@ -34,7 +34,7 @@ export const survivorPerks = [
   {
     name: "Sprint Burst",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/sprint-burst.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/sprint-burst.png",
     teachable: "Meg Thomas Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/02-meg-thomas.png",
@@ -42,7 +42,7 @@ export const survivorPerks = [
   {
     name: "Adrenaline",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/adrenaline.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/adrenaline.png",
     teachable: "Meg Thomas Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/02-meg-thomas.png",
@@ -50,7 +50,7 @@ export const survivorPerks = [
   {
     name: "Empathy",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/empathy.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/empathy.png",
     teachable: "Claudette Morel Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/03-claudette-morel.png",
@@ -58,7 +58,7 @@ export const survivorPerks = [
   {
     name: "Botany Knowledge",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/botany-knowledge.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/botany-knowledge.png",
     teachable: "Claudette Morel Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/03-claudette-morel.png",
@@ -66,7 +66,7 @@ export const survivorPerks = [
   {
     name: "Self-Care",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/self-care.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/self-care.png",
     teachable: "Claudette Morel Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/03-claudette-morel.png",
@@ -74,7 +74,7 @@ export const survivorPerks = [
   {
     name: "Iron Will",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/iron-will.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/iron-will.png",
     teachable: "Jake Park Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/04-jake-park.png",
@@ -82,7 +82,7 @@ export const survivorPerks = [
   {
     name: "Calm Spirit",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/calm-spirit.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/calm-spirit.png",
     teachable: "Jake Park Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/04-jake-park.png",
@@ -90,7 +90,7 @@ export const survivorPerks = [
   {
     name: "Saboteur",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/saboteur.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/saboteur.png",
     teachable: "Jake Park Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/04-jake-park.png",
@@ -98,7 +98,7 @@ export const survivorPerks = [
   {
     name: "Balanced Landing",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/balanced-landing.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/balanced-landing.png",
     teachable: "Nea Karlsson Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/05-nea-karlsson.png",
@@ -106,7 +106,7 @@ export const survivorPerks = [
   {
     name: "Urban Evasion",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/urban-evasion.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/urban-evasion.png",
     teachable: "Nea Karlsson Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/05-nea-karlsson.png",
@@ -114,7 +114,7 @@ export const survivorPerks = [
   {
     name: "Streetwise",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/streetwise.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/streetwise.png",
     teachable: "Nea Karlsson Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/05-nea-karlsson.png",
@@ -122,7 +122,7 @@ export const survivorPerks = [
   {
     name: "Sole Survivor",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/sole-survivor.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/sole-survivor.png",
     teachable: "Laurie Strode Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/08-laurie-strode.png",
@@ -130,7 +130,7 @@ export const survivorPerks = [
   {
     name: "Object of Obsession",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/object-of-obsession.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/object-of-obsession.png",
     teachable: "Laurie Strode Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/08-laurie-strode.png",
@@ -138,7 +138,7 @@ export const survivorPerks = [
   {
     name: "Decisive Strike",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/decisive-strike.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/decisive-strike.png",
     teachable: "Laurie Strode Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/08-laurie-strode.png",
@@ -146,7 +146,7 @@ export const survivorPerks = [
   {
     name: "Open Handed",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/open-handed.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/open-handed.png",
     teachable: "Ace Visconti Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/09-ace-visconti.png",
@@ -154,7 +154,7 @@ export const survivorPerks = [
   {
     name: "Up the Ante",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/up-the-ante.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/up-the-ante.png",
     teachable: "Ace Visconti Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/09-ace-visconti.png",
@@ -162,7 +162,7 @@ export const survivorPerks = [
   {
     name: "Ace in the Hole",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/ace-in-the-hole.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/ace-in-the-hole.png",
     teachable: "Ace Visconti Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/09-ace-visconti.png",
@@ -170,7 +170,7 @@ export const survivorPerks = [
   {
     name: "Left Behind",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/left-behind.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/left-behind.png",
     teachable: 'William "Bill" Overbeck Teachable Perk',
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/06-bill-overbeck.png",
@@ -178,7 +178,7 @@ export const survivorPerks = [
   {
     name: "Borrowed Time",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/borrowed-time.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/borrowed-time.png",
     teachable: 'William "Bill" Overbeck Teachable Perk',
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/06-bill-overbeck.png",
@@ -186,7 +186,7 @@ export const survivorPerks = [
   {
     name: "Unbreakable",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/unbreakable.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/unbreakable.png",
     teachable: 'William "Bill" Overbeck Teachable Perk',
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/06-bill-overbeck.png",
@@ -194,7 +194,7 @@ export const survivorPerks = [
   {
     name: "Technician",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/technician.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/technician.png",
     teachable: "Feng Min Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/10-feng-min.png",
@@ -202,7 +202,7 @@ export const survivorPerks = [
   {
     name: "Lithe",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/lithe.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/lithe.png",
     teachable: "Feng Min Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/10-feng-min.png",
@@ -210,7 +210,7 @@ export const survivorPerks = [
   {
     name: "Alert",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/alert.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/alert.png",
     teachable: "Feng Min Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/10-feng-min.png",
@@ -218,7 +218,7 @@ export const survivorPerks = [
   {
     name: "We're Gonna Live Forever",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/were-gonna-live-forever.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/were-gonna-live-forever.png",
     teachable: "David King Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/07-david-king.png",
@@ -226,7 +226,7 @@ export const survivorPerks = [
   {
     name: "Dead Hard",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/dead-hard.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/dead-hard.png",
     teachable: "David King Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/07-david-king.png",
@@ -234,7 +234,7 @@ export const survivorPerks = [
   {
     name: "No Mither",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/no-mither.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/no-mither.png",
     teachable: "David King Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/07-david-king.png",
@@ -242,7 +242,7 @@ export const survivorPerks = [
   {
     name: "Wake Up",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/wake-up.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/wake-up.png",
     teachable: "Quentin Smith Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/11-quentin-smith.png",
@@ -250,7 +250,7 @@ export const survivorPerks = [
   {
     name: "Pharmacy",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/pharmacy.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/pharmacy.png",
     teachable: "Quentin Smith Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/11-quentin-smith.png",
@@ -258,7 +258,7 @@ export const survivorPerks = [
   {
     name: "Vigil",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/vigil.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/vigil.png",
     teachable: "Quentin Smith Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/11-quentin-smith.png",
@@ -266,7 +266,7 @@ export const survivorPerks = [
   {
     name: "Tenacity",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/tenacity.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/tenacity.png",
     teachable: "Detective David Tapp Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/12-detective-david-tapp.png",
@@ -274,7 +274,7 @@ export const survivorPerks = [
   {
     name: "Detectives Hunch",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/detectives-hunch.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/detectives-hunch.png",
     teachable: "Detective David Tapp Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/12-detective-david-tapp.png",
@@ -282,7 +282,7 @@ export const survivorPerks = [
   {
     name: "Stake Out",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/stakeout.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/stakeout.png",
     teachable: "Detective David Tapp Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/12-detective-david-tapp.png",
@@ -290,7 +290,7 @@ export const survivorPerks = [
   {
     name: "Dance With Me",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/dance-with-me.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/dance-with-me.png",
     teachable: "Kate Denson Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/13-kate-denson.png",
@@ -298,7 +298,7 @@ export const survivorPerks = [
   {
     name: "Windows of Opportunity",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/windows-of-opportunity.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/windows-of-opportunity.png",
     teachable: "Kate Denson Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/13-kate-denson.png",
@@ -306,7 +306,7 @@ export const survivorPerks = [
   {
     name: "Boil Over",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/boil-over.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/boil-over.png",
     teachable: "Kate Denson Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/13-kate-denson.png",
@@ -314,7 +314,7 @@ export const survivorPerks = [
   {
     name: "Diversion",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/diversion.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/diversion.png",
     teachable: "Adam Francis Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/14-adam-francis.png",
@@ -322,7 +322,7 @@ export const survivorPerks = [
   {
     name: "Deliverance",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/deliverance.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/deliverance.png",
     teachable: "Adam Francis Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/14-adam-francis.png",
@@ -330,7 +330,7 @@ export const survivorPerks = [
   {
     name: "Autodidact",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/autodidact.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/autodidact.png",
     teachable: "Adam Francis Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/14-adam-francis.png",
@@ -338,7 +338,7 @@ export const survivorPerks = [
   {
     name: "Breakdown",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/breakdown.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/breakdown.png",
     teachable: "Jeff Johansen Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/15-jeff-johansen.png",
@@ -346,7 +346,7 @@ export const survivorPerks = [
   {
     name: "After Care",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/after-care.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/after-care.png",
     teachable: "Jeff Johansen Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/15-jeff-johansen.png",
@@ -354,7 +354,7 @@ export const survivorPerks = [
   {
     name: "Distortion",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/distortion.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/distortion.png",
     teachable: "Jeff Johansen Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/15-jeff-johansen.png",
@@ -362,7 +362,7 @@ export const survivorPerks = [
   {
     name: "Solidarity",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/solidarity.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/solidarity.png",
     teachable: "Jane Romero Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/16-jane-romero.png",
@@ -370,7 +370,7 @@ export const survivorPerks = [
   {
     name: "Poised",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/poised.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/poised.png",
     teachable: "Jane Romero Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/16-jane-romero.png",
@@ -378,7 +378,7 @@ export const survivorPerks = [
   {
     name: "Head On",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/head-on.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/head-on.png",
     teachable: "Jane Romero Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/16-jane-romero.png",
@@ -386,7 +386,7 @@ export const survivorPerks = [
   {
     name: "Flip-Flop",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/flip-flop.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/flip-flop.png",
     teachable: "Ashley J. Williams Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/17-ash-williams.png",
@@ -394,7 +394,7 @@ export const survivorPerks = [
   {
     name: "Buckle Up",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/buckle-up.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/buckle-up.png",
     teachable: "Ashley J. Williams Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/17-ash-williams.png",
@@ -402,7 +402,7 @@ export const survivorPerks = [
   {
     name: "Mettle of Man",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/mettle-of-man.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/mettle-of-man.png",
     teachable: "Ashley J. Williams Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/17-ash-williams.png",
@@ -410,7 +410,7 @@ export const survivorPerks = [
   {
     name: "Situational Awareness",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/better-together.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/better-together.png",
     teachable: "Nancy Wheeler Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/18-nancy-wheeler.png",
@@ -418,7 +418,7 @@ export const survivorPerks = [
   {
     name: "Self-Aware",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/fixated.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/fixated.png",
     teachable: "Nancy Wheeler Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/18-nancy-wheeler.png",
@@ -426,7 +426,7 @@ export const survivorPerks = [
   {
     name: "Inner Healing",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/inner-strength.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/inner-strength.png",
     teachable: "Nancy Wheeler Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/18-nancy-wheeler.png",
@@ -434,7 +434,7 @@ export const survivorPerks = [
   {
     name: "Guardian",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/babysitter.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/babysitter.png",
     teachable: "Steve Harrington Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/19-steve-harrington.png",
@@ -442,7 +442,7 @@ export const survivorPerks = [
   {
     name: "Kinship",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/camaraderie.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/camaraderie.png",
     teachable: "Steve Harrington Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/19-steve-harrington.png",
@@ -450,7 +450,7 @@ export const survivorPerks = [
   {
     name: "Renewal",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/renewal.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/renewal.png",
     teachable: "Steve Harrington Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/19-steve-harrington.png",
@@ -458,7 +458,7 @@ export const survivorPerks = [
   {
     name: "Lucky Break",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/lucky-break.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/lucky-break.png",
     teachable: "Yui Kimura Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/20-yui-kimura.png",
@@ -466,7 +466,7 @@ export const survivorPerks = [
   {
     name: "Any Means Necessary",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/any-means-necessary.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/any-means-necessary.png",
     teachable: "Yui Kimura Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/20-yui-kimura.png",
@@ -474,7 +474,7 @@ export const survivorPerks = [
   {
     name: "Breakout",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/breakout.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/breakout.png",
     teachable: "Yui Kimura Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/20-yui-kimura.png",
@@ -482,7 +482,7 @@ export const survivorPerks = [
   {
     name: "Off the Record",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/off-the-record.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/off-the-record.png",
     teachable: "Zarina Kassir Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/21-zarina-kassir.png",
@@ -490,7 +490,7 @@ export const survivorPerks = [
   {
     name: "Red Herring",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/red-herring.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/red-herring.png",
     teachable: "Zarina Kassir Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/21-zarina-kassir.png",
@@ -498,7 +498,7 @@ export const survivorPerks = [
   {
     name: "For the People",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/for-the-people.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/for-the-people.png",
     teachable: "Zarina Kassir Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/21-zarina-kassir.png",
@@ -506,7 +506,7 @@ export const survivorPerks = [
   {
     name: "Soul Guard",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/soul-guard.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/soul-guard.png",
     teachable: "Cheryl Mason Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/22-cheryl-mason.png",
@@ -514,7 +514,7 @@ export const survivorPerks = [
   {
     name: "Blood Pact",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/blood-pact.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/blood-pact.png",
     teachable: "Cheryl Mason Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/22-cheryl-mason.png",
@@ -522,7 +522,7 @@ export const survivorPerks = [
   {
     name: "Repressed Alliance",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/repressed-alliance.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/repressed-alliance.png",
     teachable: "Cheryl Mason Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/22-cheryl-mason.png",
@@ -530,7 +530,7 @@ export const survivorPerks = [
   {
     name: "Visionary",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/visionary.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/visionary.png",
     teachable: "Felix Richter Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/23-felix-richter.png",
@@ -538,7 +538,7 @@ export const survivorPerks = [
   {
     name: "Desperate Measures",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/desperate-measures.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/desperate-measures.png",
     teachable: "Felix Richter Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/23-felix-richter.png",
@@ -546,7 +546,7 @@ export const survivorPerks = [
   {
     name: "Built to Last",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/built-to-last.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/built-to-last.png",
     teachable: "Felix Richter Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/23-felix-richter.png",
@@ -554,7 +554,7 @@ export const survivorPerks = [
   {
     name: "Appraisal",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/appraisal.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/appraisal.png",
     teachable: "Élodie Rakoto Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/24-elodie-rakoto.png",
@@ -562,7 +562,7 @@ export const survivorPerks = [
   {
     name: "Deception",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/deception.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/deception.png",
     teachable: "Élodie Rakoto Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/24-elodie-rakoto.png",
@@ -570,7 +570,7 @@ export const survivorPerks = [
   {
     name: "Power Struggle",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/power-struggle.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/power-struggle.png",
     teachable: "Élodie Rakoto Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/24-elodie-rakoto.png",
@@ -578,7 +578,7 @@ export const survivorPerks = [
   {
     name: "Fast Track",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/fast-track.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/fast-track.png",
     teachable: "Yun-Jin Lee Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/25-yun-jin-lee.png",
@@ -586,7 +586,7 @@ export const survivorPerks = [
   {
     name: "Smash Hit",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/smash-hit.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/smash-hit.png",
     teachable: "Yun-Jin Lee Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/25-yun-jin-lee.png",
@@ -594,7 +594,7 @@ export const survivorPerks = [
   {
     name: "Self-Preservation",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/self-preservation.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/self-preservation.png",
     teachable: "Yun-Jin Lee Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/25-yun-jin-lee.png",
@@ -602,7 +602,7 @@ export const survivorPerks = [
   {
     name: "Counterforce",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/counter-force.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/counter-force.png",
     teachable: "Jill Valentine Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/26-jill-valentine.png",
@@ -610,7 +610,7 @@ export const survivorPerks = [
   {
     name: "Resurgence",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/resurgence.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/resurgence.png",
     teachable: "Jill Valentine Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/26-jill-valentine.png",
@@ -618,7 +618,7 @@ export const survivorPerks = [
   {
     name: "Blast Mine",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/blast-mine.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/blast-mine.png",
     teachable: "Jill Valentine Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/26-jill-valentine.png",
@@ -626,7 +626,7 @@ export const survivorPerks = [
   {
     name: "Bite the Bullet",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/bite-the-bullet.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/bite-the-bullet.png",
     teachable: "Leon S. Kennedy Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/27-leon-s-kennedy.png",
@@ -634,7 +634,7 @@ export const survivorPerks = [
   {
     name: "Flashbang",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/flashbang.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/flashbang.png",
     teachable: "Leon S. Kennedy Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/27-leon-s-kennedy.png",
@@ -642,7 +642,7 @@ export const survivorPerks = [
   {
     name: "Rookie Spirit",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/rookie-spirit.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/rookie-spirit.png",
     teachable: "Leon S. Kennedy Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/27-leon-s-kennedy.png",
@@ -650,7 +650,7 @@ export const survivorPerks = [
   {
     name: "Clairvoyance",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/clairvoyance.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/clairvoyance.png",
     teachable: "Mikaela Reid Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/28-mikaela-reid.png",
@@ -658,7 +658,7 @@ export const survivorPerks = [
   {
     name: "Boon: Circle of Healing",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/boon-circle-of-healing.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/boon-circle-of-healing.png",
     teachable: "Mikaela Reid Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/28-mikaela-reid.png",
@@ -666,7 +666,7 @@ export const survivorPerks = [
   {
     name: "Boon: Shadow Step",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/boon-shadow-step.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/boon-shadow-step.png",
     teachable: "Mikaela Reid Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/28-mikaela-reid.png",
@@ -674,7 +674,7 @@ export const survivorPerks = [
   {
     name: "Overcome",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/overcome.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/overcome.png",
     teachable: "Jonah Vasquez Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/29-jonah-vasquez.png",
@@ -682,7 +682,7 @@ export const survivorPerks = [
   {
     name: "Corrective Action",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/corrective-action.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/corrective-action.png",
     teachable: "Jonah Vasquez Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/29-jonah-vasquez.png",
@@ -690,7 +690,7 @@ export const survivorPerks = [
   {
     name: "Boon: Exponential",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/boon-exponential.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/boon-exponential.png",
     teachable: "Jonah Vasquez Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/29-jonah-vasquez.png",
@@ -698,7 +698,7 @@ export const survivorPerks = [
   {
     name: "Parental Guidance",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/parental-guidance.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/parental-guidance.png",
     teachable: "Yoichi Asakawa Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/30-yoichi-asakawa.png",
@@ -706,7 +706,7 @@ export const survivorPerks = [
   {
     name: "Empathic Connection",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/empathic-connection.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/empathic-connection.png",
     teachable: "Yoichi Asakawa Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/30-yoichi-asakawa.png",
@@ -714,7 +714,7 @@ export const survivorPerks = [
   {
     name: "Boon: Dark Theory",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/boon-dark-theory.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/boon-dark-theory.png",
     teachable: "Yoichi Asakawa Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/30-yoichi-asakawa.png",
@@ -722,7 +722,7 @@ export const survivorPerks = [
   {
     name: "Inner Focus",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/inner-focus.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/inner-focus.png",
     teachable: "Haddie Kaur Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/31-haddie-kaur.png",
@@ -730,7 +730,7 @@ export const survivorPerks = [
   {
     name: "Residual Manifest",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/residual-manifest.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/residual-manifest.png",
     teachable: "Haddie Kaur Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/31-haddie-kaur.png",
@@ -738,7 +738,7 @@ export const survivorPerks = [
   {
     name: "Overzealous",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/overzealous.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/overzealous.png",
     teachable: "Haddie Kaur Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/31-haddie-kaur.png",
@@ -751,7 +751,7 @@ export const survivorPerks = [
   {
     name: "Dark Sense",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/dark-sense.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/dark-sense.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
@@ -759,7 +759,7 @@ export const survivorPerks = [
   {
     name: "Déjà Vu",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/deja-vu.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/deja-vu.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
@@ -767,7 +767,7 @@ export const survivorPerks = [
   {
     name: "Hope",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/hope.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/hope.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
@@ -775,7 +775,7 @@ export const survivorPerks = [
   {
     name: "Kindred",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/kindred.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/kindred.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
@@ -783,7 +783,7 @@ export const survivorPerks = [
   {
     name: "Lightweight",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/lightweight.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/lightweight.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
@@ -791,7 +791,7 @@ export const survivorPerks = [
   {
     name: "No One Left Behind",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/no-one-left-behind.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/no-one-left-behind.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
@@ -799,7 +799,7 @@ export const survivorPerks = [
   {
     name: "Plunderers Instinct",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/plunderers-instinct.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/plunderers-instinct.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
@@ -807,7 +807,7 @@ export const survivorPerks = [
   {
     name: "Premonition",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/premonition.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/premonition.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
@@ -815,7 +815,7 @@ export const survivorPerks = [
   {
     name: "Resilience",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/resilience.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/resilience.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
@@ -823,7 +823,7 @@ export const survivorPerks = [
   {
     name: "Slippery Meat",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/slippery-meat.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/slippery-meat.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
@@ -831,7 +831,7 @@ export const survivorPerks = [
   {
     name: "Small Game",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/small-game.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/small-game.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
@@ -839,7 +839,7 @@ export const survivorPerks = [
   {
     name: "Spine Chill",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/spine-chill.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/spine-chill.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
@@ -847,7 +847,7 @@ export const survivorPerks = [
   {
     name: "This Is Not Happening",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/this-is-not-happening.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/this-is-not-happening.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
@@ -855,7 +855,7 @@ export const survivorPerks = [
   {
     name: "We'll Make It",
     image:
-      "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/survivor-perks/well-make-it.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/well-make-it.png",
     teachable: "All Survivors",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/00-all-survivors.png",
