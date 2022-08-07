@@ -1,0 +1,92 @@
+export const killerPerks = [
+    {
+        name: "Unnerving Presence",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/unnerving-presence.png",
+        teachable: "The Trapper Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/01-the-trapper.png",
+    },
+    {
+        name: "Brtual Strength",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/brutal-strength.png",
+        teachable: "The Trapper Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/01-the-trapper.png",
+    },
+    {
+        name: "Agitation",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/agitation.png",
+        teachable: "The Trapper Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/01-the-trapper.png",
+    },
+    {
+        name: "Predator",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/predator.png",
+        teachable: "The Wraith Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/02-the-wraith.png",
+    },
+    {
+        name: "Bloodhound",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/bloodhound.png",
+        teachable: "The Wraith Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/02-the-wraith.png",
+    },
+    {
+        name: "Shadowborn",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/shadowborn.png",
+        teachable: "The Wraith Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/02-the-wraith.png",
+    },
+    {
+        name: "Enduring",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/enduring.png",
+        teachable: "The Hillbilly Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/03-the-hillbilly.png",
+    },
+    {
+        name: "Lightborn",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/lightborn.png",
+        teachable: "The Hillbilly Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/03-the-hillbilly.png",
+    },
+    {
+        name: "Tinkerer",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/tinkerer.png",
+        teachable: "The Hillbilly Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/03-the-hillbilly.png",
+    },
+    {
+        name: "Stridor",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/stridor.png",
+        teachable: "The Nurse Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/04-the-nurse.png",
+    },
+    {
+        name: "Thanatophobia",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/thanatophobia.png",
+        teachable: "The Nurse Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/04-the-nurse.png",
+    },
+    {
+        name: "A Nurse's Calling",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/a-nurses-calling.png",
+        teachable: "The Nurse Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/04-the-nurse.png",
+    },
+    {
+        name: "Save the Best for Last",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/save-the-best-for-last.png",
+        teachable: "The Shape Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/05-the-shape.png",
+    },
+    {
+        name: "Play with Your Food",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/play-with-your-food.png",
+        teachable: "The Shape Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/05-the-shape.png",
+    },
+    {
+        name: "Dying Light",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/dying-light.png",
+        teachable: "The Shape Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/05-the-shape.png",
+    },
+]
