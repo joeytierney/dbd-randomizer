@@ -449,4 +449,58 @@ export const killerPerks = [
         teachable: "The Cenobite Teachable Perk",
         killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/25-the-cenobite.png",
     },
+    {
+        name: "Grim Embrace",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/grim-embrace.png",
+        teachable: "The Artist Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/26-the-artist.png",
+    },
+    {
+        name: "Scourge Hook: Pain Resonance",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/scourge-hook-pain-resonance.png",
+        teachable: "The Artist Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/26-the-artist.png",
+    },
+    {
+        name: "Hex: Pentimento",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/hex-pentimento.png",
+        teachable: "The Artist Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/26-the-artist.png",
+    },
+    {
+        name: "Scourge Hook: Floods of Rage",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/scourge-hook-floods-of-rage.png",
+        teachable: "The Onryō Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/27-the-onryo.png",
+    },
+    {
+        name: "Call of Brine",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/call-of-brine.png",
+        teachable: "The Onryō Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/27-the-onryo.png",
+    },
+    {
+        name: "Merciless Storm",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/merciless-storm.png",
+        teachable: "The Onryō Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/27-the-onryo.png",
+    },
+    {
+        name: "Dissolution",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/dissolution.png",
+        teachable: "The Dredge Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/28-the-dredge.png",
+    },
+    {
+        name: "Darkness Revealed",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/darkness-revealed.png",
+        teachable: "The Dredge Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/28-the-dredge.png",
+    },
+    {
+        name: "Septic Touch",
+        image: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/perks/killer-perks/septic-touch.png",
+        teachable: "The Dredge Teachable Perk",
+        killer: "https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/character-portraits/killers/28-the-dredge.png",
+    },
 ]
