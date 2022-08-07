@@ -36,12 +36,6 @@ export const survivorsArray = [
     dlc: "PARAGRAPH 1: Left Behind",
   },
   {
-    name: "David King",
-    image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/07-david-king.png",
-    dlc: "CHAPTER 5: A Lullaby for the Dark",
-  },
-  {
     name: "Laurie Strode",
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/08-laurie-strode.png",
@@ -58,6 +52,12 @@ export const survivorsArray = [
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/10-feng-min.png",
     dlc: "CHAPTER 4: Spark of Madness",
+  },
+  {
+    name: "David King",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/07-david-king.png",
+    dlc: "CHAPTER 5: A Lullaby for the Dark",
   },
   {
     name: "Quentin Smith",
