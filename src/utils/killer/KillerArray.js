@@ -60,7 +60,7 @@ export const killersArray = [
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/09-the-cannibal.png",
     realName: "Bubba Sawyer",
-    dlc: "PARAGRAPH 2: LEATHERFACE™",
+    dlc: "CHAPTER 5.5: LEATHERFACE™",
   },
   {
     name: "The Nightmare",
