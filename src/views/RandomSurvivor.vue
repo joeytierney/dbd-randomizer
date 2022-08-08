@@ -26,7 +26,7 @@
 </template>
 
 <script>
-import { survivorsArray } from "../utils/survivor/SurvivorArray.js";
+import { survivorsArray } from "@/utils/survivor/SurvivorArray.js";
 import ButtonSurvivor from "@/components/buttons/ButtonSurvivor.vue";
 export default {
   components: {
