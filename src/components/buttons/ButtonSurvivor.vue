@@ -1,7 +1,7 @@
 <template>
   <img
     src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/general-icons/survivor-button.png"
-    alt="Click here for a random survivor!"
+    alt="Click here for a random Survivor!"
     @click="onClick"
     class="survivorButton"
   />
