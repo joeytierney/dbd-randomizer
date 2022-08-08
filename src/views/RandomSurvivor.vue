@@ -20,19 +20,18 @@
     <h3 class="survDLC">{{ selectedSurvivor.dlc }}</h3>
     <br />
     <div class="survButton">
-      <img
-        src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/general-icons/survivor-button.png"
-        alt="Click here for a random survivor!"
-        @click="rndSurv"
-        class="randomSurvButton"
-      />
+      <ButtonSurvivor @click="rndSurv()" />
     </div>
   </div>
 </template>
 
 <script>
 import { survivorsArray } from "../utils/survivor/SurvivorArray.js";
+import ButtonSurvivor from "@/components/buttons/ButtonSurvivor.vue";
 export default {
+  components: {
+    ButtonSurvivor,
+  },
   data() {
     return {
       survivorsArray: survivorsArray,
@@ -53,4 +52,3 @@ export default {
     },
   },
 };
-</script>
