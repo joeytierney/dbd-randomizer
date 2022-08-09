@@ -7,7 +7,12 @@
       <h3>{{ perkOne.teachable }}</h3>
       <ButtonReRoll />
     </div>
-    <div class="selected-perk"></div>
+    <div class="selected-perk">
+      <img :src="perkTwo.image" :alt="perkTwo.name" />
+      <h1>{{ perkTwo.name }}</h1>
+      <h3>{{ perkTwo.teachable }}</h3>
+      <ButtonReRoll />
+    </div>
     <div class="selected-perk"></div>
     <div class="selected-perk"></div>
   </div>
