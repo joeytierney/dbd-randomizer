@@ -7,3 +7,15 @@
     <div class="fourth-perk"></div>
   </div>
 </template>
+
+<script>
+import { survivorPerks } from "@/utils/survivor/SurvivorPerkArray.js";
+
+export default {
+  data() {
+    return {
+      survivorPerks: survivorPerks,
+    };
+  },
+};
+</script>
