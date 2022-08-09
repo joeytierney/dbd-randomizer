@@ -26,7 +26,6 @@
       <ButtonReRoll />
     </div>
   </div>
-  <ButtonPerk />
 </template>
 
 <script>
@@ -40,7 +39,24 @@ export default {
       survivorPerks: survivorPerks,
       ButtonReRoll,
       ButtonPerk,
+      perkOne: "",
+      perkTwo: "",
+      perkThree: "",
+      perkFour: "",
     };
+  },
+  methods: {
+    randomArray() {
+      const perkOne = Math.floor(Math.random() * this.survivorPerks.length);
+      const perkTwo = Math.floor(Math.random() * this.survivorPerks.length);
+      const perkThree = Math.floor(Math.random() * this.survivorPerks.length);
+      const perkFour = Math.floor(Math.random() * this.survivorPerks.length);
+
+      this.perkOne = this.survivorPerks[perkOne];
+      this.perkTwo = this.survivorPerks[perkTwo];
+      this.perkThree = this.survivorPerks[perkThree];
+      this.perkFour = this.survivorPerks[perkFour];
+    },
   },
 };
 </script>
