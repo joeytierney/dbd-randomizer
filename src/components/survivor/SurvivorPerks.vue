@@ -5,6 +5,7 @@
       <img :src="perkOne.image" :alt="perkOne.name" />
       <h1>{{ perkOne.name }}</h1>
       <h3>{{ perkOne.teachable }}</h3>
+      <ButtonReRoll />
     </div>
     <div class="selected-perk"></div>
     <div class="selected-perk"></div>
@@ -14,11 +15,13 @@
 
 <script>
 import { survivorPerks } from "@/utils/survivor/SurvivorPerkArray.js";
+import ButtonReRoll from "@/components/buttons/ButtonReRoll.vue";
 
 export default {
   data() {
     return {
       survivorPerks: survivorPerks,
+      ButtonReRoll,
     };
   },
 };
