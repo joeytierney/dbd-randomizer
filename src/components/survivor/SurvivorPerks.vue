@@ -1,10 +1,14 @@
 <template>
   <h1>Survivor Perks</h1>
   <div class="perks">
-    <div class="first-perk"></div>
-    <div class="second-perk"></div>
-    <div class="third-perk"></div>
-    <div class="fourth-perk"></div>
+    <div class="selected-perk">
+      <img :src="perkOne.image" :alt="perkOne.name" />
+      <h1>{{ perkOne.name }}</h1>
+      <h3>{{ perkOne.teachable }}</h3>
+    </div>
+    <div class="selected-perk"></div>
+    <div class="selected-perk"></div>
+    <div class="selected-perk"></div>
   </div>
 </template>
 
@@ -19,3 +23,16 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.selected-perk {
+  float: left;
+  width: 25%;
+}
+
+.perks:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
