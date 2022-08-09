@@ -25,6 +25,12 @@ export default {
 </script>
 
 <style scoped>
+@media screen and (max-width: 600px) {
+  .selected-perk {
+    width: 100%;
+  }
+}
+
 .selected-perk {
   float: left;
   width: 25%;
