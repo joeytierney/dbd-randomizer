@@ -410,7 +410,7 @@ export const survivorPerks = [
   {
     name: "Situational Awareness",
     image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/better-together.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/situational-awareness.png",
     teachable: "Nancy Wheeler Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/18-nancy-wheeler.png",
@@ -418,7 +418,7 @@ export const survivorPerks = [
   {
     name: "Self-Aware",
     image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/fixated.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/self-aware.png",
     teachable: "Nancy Wheeler Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/18-nancy-wheeler.png",
@@ -426,7 +426,7 @@ export const survivorPerks = [
   {
     name: "Inner Healing",
     image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/inner-strength.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/inner-healing.png",
     teachable: "Nancy Wheeler Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/18-nancy-wheeler.png",
@@ -434,7 +434,7 @@ export const survivorPerks = [
   {
     name: "Guardian",
     image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/babysitter.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/guardian.png",
     teachable: "Steve Harrington Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/19-steve-harrington.png",
@@ -442,7 +442,7 @@ export const survivorPerks = [
   {
     name: "Kinship",
     image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/camaraderie.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/kinship.png",
     teachable: "Steve Harrington Teachable Perk",
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/19-steve-harrington.png",
