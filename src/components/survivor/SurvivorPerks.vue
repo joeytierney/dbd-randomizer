@@ -5,25 +5,25 @@
       <img :src="perkOne.image" :alt="perkOne.name" />
       <h1>{{ perkOne.name }}</h1>
       <h3>{{ perkOne.teachable }}</h3>
-      <ButtonReRoll />
+      <ButtonReRoll @click="rerollOne" />
     </div>
     <div class="selected-perk">
       <img :src="perkTwo.image" :alt="perkTwo.name" />
       <h1>{{ perkTwo.name }}</h1>
       <h3>{{ perkTwo.teachable }}</h3>
-      <ButtonReRoll />
+      <ButtonReRoll @click="rerollTwo" />
     </div>
     <div class="selected-perk">
       <img :src="perkThree.image" :alt="perkThree.name" />
       <h1>{{ perkThree.name }}</h1>
       <h3>{{ perkThree.teachable }}</h3>
-      <ButtonReRoll />
+      <ButtonReRoll @click="rerollThree" />
     </div>
     <div class="selected-perk">
       <img :src="perkFour.image" :alt="perkFour.name" />
       <h1>{{ perkFour.name }}</h1>
       <h3>{{ perkFour.teachable }}</h3>
-      <ButtonReRoll />
+      <ButtonReRoll @click="rerollFour" />
     </div>
   </div>
   <ButtonPerk @click="randomizer()" />
@@ -76,6 +76,50 @@ export default {
       }
       if (this.perkThree === this.perkFour) {
         this.randomArray();
+      }
+    },
+    rerollOne() {
+      const perkOne = Math.floor(Math.random() * this.survivorPerks.length);
+      this.perkOne = this.survivorPerks[perkOne];
+      if (
+        this.perkOne === this.perkTwo ||
+        this.perkOne === this.perkThree ||
+        this.perkOne === this.perkFour
+      ) {
+        this.rerollOne();
+      }
+    },
+    rerollTwo() {
+      const perkTwo = Math.floor(Math.random() * this.survivorPerks.length);
+      this.perkTwo = this.survivorPerks[perkTwo];
+      if (
+        this.perkTwo === this.perkOne ||
+        this.perkTwo === this.perkThree ||
+        this.perkTwo === this.perkFour
+      ) {
+        this.rerollTwo();
+      }
+    },
+    rerollThree() {
+      const perkThree = Math.floor(Math.random() * this.survivorPerks.length);
+      this.perkThree = this.survivorPerks[perkThree];
+      if (
+        this.perkThree === this.perkOne ||
+        this.perkThree === this.perkTwo ||
+        this.perkThree === this.perkFour
+      ) {
+        this.rerollThree();
+      }
+    },
+    rerollFour() {
+      const perkFour = Math.floor(Math.random() * this.survivorPerks.length);
+      this.perkFour = this.survivorPerks[perkFour];
+      if (
+        this.perkFour === this.perkOne ||
+        this.perkFour === this.perkTwo ||
+        this.perkFour === this.perkThree
+      ) {
+        this.rerollFour();
       }
     },
     randomizer() {
