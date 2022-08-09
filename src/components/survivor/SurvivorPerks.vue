@@ -60,6 +60,23 @@ export default {
       this.perkTwo = this.survivorPerks[perkTwo];
       this.perkThree = this.survivorPerks[perkThree];
       this.perkFour = this.survivorPerks[perkFour];
+
+      this.repeatPerks();
+    },
+    repeatPerks() {
+      if (
+        this.perkOne === this.perkTwo ||
+        this.perkOne === this.perkThree ||
+        this.perkOne === this.perkFour
+      ) {
+        this.randomArray();
+      }
+      if (this.perkTwo === this.perkThree || this.perkTwo === this.perkFour) {
+        this.randomArray();
+      }
+      if (this.perkThree === this.perkFour) {
+        this.randomArray();
+      }
     },
     randomizer() {
       this.randomArray();
