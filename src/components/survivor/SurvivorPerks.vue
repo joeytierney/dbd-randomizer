@@ -1,6 +1,6 @@
 <template>
   <h1>Survivor Perks</h1>
-  <div class="perks">
+  <div v-if="visible" class="perks">
     <div class="selected-perk">
       <img :src="perkOne.image" :alt="perkOne.name" />
       <h1>{{ perkOne.name }}</h1>
@@ -26,6 +26,7 @@
       <ButtonReRoll />
     </div>
   </div>
+  <ButtonPerk @click="randomizer()" />
 </template>
 
 <script>
@@ -34,15 +35,18 @@ import ButtonReRoll from "@/components/buttons/ButtonReRoll.vue";
 import ButtonPerk from "@/components/buttons/ButtonPerk.vue";
 
 export default {
+  components: {
+    ButtonReRoll,
+    ButtonPerk,
+  },
   data() {
     return {
       survivorPerks: survivorPerks,
-      ButtonReRoll,
-      ButtonPerk,
       perkOne: "",
       perkTwo: "",
       perkThree: "",
       perkFour: "",
+      visible: false,
     };
   },
   methods: {
@@ -56,6 +60,10 @@ export default {
       this.perkTwo = this.survivorPerks[perkTwo];
       this.perkThree = this.survivorPerks[perkThree];
       this.perkFour = this.survivorPerks[perkFour];
+    },
+    randomizer() {
+      this.randomArray();
+      this.visible = true;
     },
   },
 };
