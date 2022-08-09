@@ -26,17 +26,20 @@
       <ButtonReRoll />
     </div>
   </div>
+  <ButtonPerk />
 </template>
 
 <script>
 import { survivorPerks } from "@/utils/survivor/SurvivorPerkArray.js";
 import ButtonReRoll from "@/components/buttons/ButtonReRoll.vue";
+import ButtonPerk from "@/components/buttons/ButtonPerk.vue";
 
 export default {
   data() {
     return {
       survivorPerks: survivorPerks,
       ButtonReRoll,
+      ButtonPerk,
     };
   },
 };
