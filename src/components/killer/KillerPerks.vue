@@ -79,8 +79,8 @@ export default {
       }
     },
     rerollOne() {
-      const perkOne = Math.floor(Math.random() * this.survivorPerks.length);
-      this.perkOne = this.survivorPerks[perkOne];
+      const perkOne = Math.floor(Math.random() * this.killerPerks.length);
+      this.perkOne = this.killerPerks[perkOne];
       if (
         this.perkOne === this.perkTwo ||
         this.perkOne === this.perkThree ||
@@ -90,8 +90,8 @@ export default {
       }
     },
     rerollTwo() {
-      const perkTwo = Math.floor(Math.random() * this.survivorPerks.length);
-      this.perkTwo = this.survivorPerks[perkTwo];
+      const perkTwo = Math.floor(Math.random() * this.killerPerks.length);
+      this.perkTwo = this.killerPerks[perkTwo];
       if (
         this.perkTwo === this.perkOne ||
         this.perkTwo === this.perkThree ||
@@ -101,8 +101,8 @@ export default {
       }
     },
     rerollThree() {
-      const perkThree = Math.floor(Math.random() * this.survivorPerks.length);
-      this.perkThree = this.survivorPerks[perkThree];
+      const perkThree = Math.floor(Math.random() * this.killerPerks.length);
+      this.perkThree = this.killerPerks[perkThree];
       if (
         this.perkThree === this.perkOne ||
         this.perkThree === this.perkTwo ||
@@ -112,8 +112,8 @@ export default {
       }
     },
     rerollFour() {
-      const perkFour = Math.floor(Math.random() * this.survivorPerks.length);
-      this.perkFour = this.survivorPerks[perkFour];
+      const perkFour = Math.floor(Math.random() * this.killerPerks.length);
+      this.perkFour = this.killerPerks[perkFour];
       if (
         this.perkFour === this.perkOne ||
         this.perkFour === this.perkTwo ||
