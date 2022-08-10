@@ -24,6 +24,7 @@
 <script>
 import { killersArray } from "@/utils/killer/KillerArray.js";
 import ButtonKiller from "@/components/buttons/ButtonKiller.vue";
+
 export default {
   components: {
     ButtonKiller,
