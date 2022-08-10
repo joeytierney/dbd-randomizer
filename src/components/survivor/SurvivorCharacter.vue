@@ -39,8 +39,8 @@ export default {
   },
   methods: {
     randomArray() {
-      const idx = Math.floor(Math.random() * this.survivorsArray.length);
-      this.selectedSurvivor = this.survivorsArray[idx];
+      const survivor = Math.floor(Math.random() * this.survivorsArray.length);
+      this.selectedSurvivor = this.survivorsArray[survivor];
     },
     randomizer() {
       this.randomArray();

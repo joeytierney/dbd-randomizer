@@ -38,8 +38,8 @@ export default {
   },
   methods: {
     randomArray() {
-      const idx = Math.floor(Math.random() * this.killersArray.length);
-      this.selectedKiller = this.killersArray[idx];
+      const killer = Math.floor(Math.random() * this.killersArray.length);
+      this.selectedKiller = this.killersArray[killer];
     },
     randomizer() {
       this.randomArray();
