@@ -1,6 +1,11 @@
 <template>
   <h1>Killer Perks</h1>
-  <PerkPlaceholder v-if="placeholder" />
+  <div class="perks">
+    <div v-for="index in 4" :key="index" class="selected-perk">
+      <PerkPlaceholder v-if="placeholder" />
+    </div>
+    <label v-if="placeholder" class="text-center">Click the icon below!</label>
+  </div>
   <div v-if="visible" class="perks">
     <div class="selected-perk">
       <img :src="perkOne.image" :alt="perkOne.name" />
