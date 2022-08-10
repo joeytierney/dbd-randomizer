@@ -26,14 +26,17 @@
       <ButtonReRoll @click="rerollFour" />
     </div>
   </div>
+  <ButtonPerk @click="randomizer()" />
 </template>
 
 <script>
 import ButtonReRoll from "@/components/buttons/ButtonReRoll.vue";
+import ButtonPerk from "@/components/buttons/ButtonPerk.vue";
 
 export default {
   components: {
     ButtonReRoll,
+    ButtonPerk,
   },
 }
 </script>
