@@ -127,7 +127,7 @@ export default {
       this.visible = true;
     },
   },
-}
+};
 </script>
 
 <style scoped>
