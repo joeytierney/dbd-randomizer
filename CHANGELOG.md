@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/joeytierney/dbd-vue/compare/v0.1.1...v0.1.2) (2022-08-10)
+
+
+### Features
+
+* killer character randomizer created ([941cf92](https://github.com/joeytierney/dbd-vue/commit/941cf92f4c6817f30ca3cf0fe0c0ddc2ae36b933))
+* KillerCharacter imported to killer view ([b571b26](https://github.com/joeytierney/dbd-vue/commit/b571b26d8956a4226d0913e1221873b96b93aaf0))
+
 ### 0.1.1 (2022-08-09)
 
 
