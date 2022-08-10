@@ -185,6 +185,18 @@ export const survivorsArray = [
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/31-haddie-kaur.png",
     dlc: "CHAPTER 24: Roots of Dread",
   },
+  // {
+  //   name: "Ada Wong",
+  //   image:
+  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/32-ada-wong.png",
+  //   dlc: "CHAPTER 25: Resident Evil™: PROJECT W",
+  // },
+  // {
+  //   name: "Rebecca Chambers",
+  //   image:
+  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/33-rebecca-chambers.png",
+  //   dlc: "CHAPTER 25: Resident Evil™: PROJECT W",
+  // },
 
   // **************************************
   // LEGENDARY AND ULTRA-RARE SKINS SECTION
