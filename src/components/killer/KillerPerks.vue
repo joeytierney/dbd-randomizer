@@ -60,8 +60,25 @@ export default {
       this.perkTwo = this.killerPerks[perkTwo];
       this.perkThree = this.killerPerks[perkThree];
       this.perkFour = this.killerPerks[perkFour];
+
+      this.repeatPerks();
     },
-  }
+    repeatPerks() {
+      if (
+        this.perkOne === this.perkTwo ||
+        this.perkOne === this.perkThree ||
+        this.perkOne === this.perkFour
+      ) {
+        this.randomArray();
+      }
+      if (this.perkTwo === this.perkThree || this.perkTwo === this.perkFour) {
+        this.randomArray();
+      }
+      if (this.perkThree === this.perkFour) {
+        this.randomArray();
+      }
+    },
+  },
 }
 </script>
 
