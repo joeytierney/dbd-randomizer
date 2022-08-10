@@ -44,8 +44,8 @@ export default {
     },
     randomizer() {
       this.randomArray();
-      document.getElementById("questionPlaceholder").remove();
-      document.getElementById("helperText").remove();
+      document.getElementById("placeholder").remove();
+      document.getElementById("helper-text").remove();
       this.visible = true;
     },
   },
