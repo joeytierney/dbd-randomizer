@@ -3,17 +3,17 @@
     src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/general-icons/random-reroll-icon.png"
     alt="Click here to reroll the perk above!"
     @click="onClick"
-    class="rerollButton"
+    class="reroll-button"
   />
 </template>
 
 <style scoped>
-.rerollButton {
+.reroll-button {
   cursor: pointer;
   width: 7.6875rem;
 }
 
-.rerollButton:active {
+.reroll-button:active {
   transform: translateY(0.25rem);
 }
 </style>

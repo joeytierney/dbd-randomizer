@@ -3,18 +3,18 @@
     src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/general-icons/survivor-button.png"
     alt="Click here for a random Survivor!"
     @click="onClick"
-    class="survivorButton"
+    class="survivor-button"
   />
 </template>
 
 <style scoped>
-.survivorButton {
+.survivor-button {
   cursor: pointer;
   width: 7.5rem;
   height: 7.5rem;
 }
 
-.survivorButton:active {
+.survivor-button:active {
   transform: translateY(0.25rem);
 }
 </style>
