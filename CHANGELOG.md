@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/joeytierney/dbd-vue/compare/v0.1.1...v0.1.3) (2022-08-10)
+
+
+### Features
+
+* killer character randomizer created ([941cf92](https://github.com/joeytierney/dbd-vue/commit/941cf92f4c6817f30ca3cf0fe0c0ddc2ae36b933))
+* killer perk array imported ([cab9185](https://github.com/joeytierney/dbd-vue/commit/cab91853fcd8a07454e590329560e870ce897b30))
+* KillerCharacter imported to killer view ([b571b26](https://github.com/joeytierney/dbd-vue/commit/b571b26d8956a4226d0913e1221873b96b93aaf0))
+* perk button imported ([e6589a0](https://github.com/joeytierney/dbd-vue/commit/e6589a042011c29c21418f4e28a581378eba83c4))
+* randomized killer perk skeleton ([479e9a4](https://github.com/joeytierney/dbd-vue/commit/479e9a4de6a83c135780c00908f4ebd51a86ba5d))
+* randomizer logic ([e6c0cfb](https://github.com/joeytierney/dbd-vue/commit/e6c0cfbfa9f5f69bde2055201135a1aa9deebac7))
+* randomizer method ([4d1c092](https://github.com/joeytierney/dbd-vue/commit/4d1c092afd7c55b29cb32ae973646a44bcc415dd))
+* repeat perks logic ([c643df7](https://github.com/joeytierney/dbd-vue/commit/c643df759afa515b8084b8a6e44c03efb62bc7ee))
+* reroll button imported ([22aa91a](https://github.com/joeytierney/dbd-vue/commit/22aa91ae2ed12305db91840521c0292774d8caa1))
+* reroll perk logic ([a216fda](https://github.com/joeytierney/dbd-vue/commit/a216fda432649bf52fe387def8a4b0299f268dcf))
+
+
+### Bug Fixes
+
+* survivorPerk array being called instead of killerPerk array ([484281a](https://github.com/joeytierney/dbd-vue/commit/484281abc1e931687fa55e5adc999c36b1ee409f))
+
 ### [0.1.2](https://github.com/joeytierney/dbd-vue/compare/v0.1.1...v0.1.2) (2022-08-10)
 
 
