@@ -12,6 +12,8 @@
   cursor: pointer;
   width: 9.375rem;
   height: 9.375rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .perk-button:active {

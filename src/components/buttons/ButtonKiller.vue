@@ -12,6 +12,8 @@
   cursor: pointer;
   width: 7.5rem;
   height: 7.5rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .killer-button:active {

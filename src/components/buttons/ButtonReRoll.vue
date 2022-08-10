@@ -11,6 +11,8 @@
 .reroll-button {
   cursor: pointer;
   width: 7.6875rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .reroll-button:active {
