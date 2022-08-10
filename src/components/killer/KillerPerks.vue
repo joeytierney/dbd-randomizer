@@ -1,5 +1,6 @@
 <template>
   <h1>Killer Perks</h1>
+  <PerkPlaceholder v-if="placeholder" />
   <div v-if="visible" class="perks">
     <div class="selected-perk">
       <img :src="perkOne.image" :alt="perkOne.name" />
@@ -33,11 +34,13 @@
 import { killerPerks } from "@/utils/killer/KillerPerkArray.js";
 import ButtonReRoll from "@/components/buttons/ButtonReRoll.vue";
 import ButtonPerk from "@/components/buttons/ButtonPerk.vue";
+import PerkPlaceholder from "@/components/placeholders/PerkPlaceholder.vue";
 
 export default {
   components: {
     ButtonReRoll,
     ButtonPerk,
+    PerkPlaceholder,
   },
   data() {
     return {
@@ -47,6 +50,7 @@ export default {
       perkThree: "",
       perkFour: "",
       visible: false,
+      placeholder: true,
     };
   },
   methods: {
@@ -124,10 +128,11 @@ export default {
     },
     randomizer() {
       this.randomArray();
+      this.placeholder = false;
       this.visible = true;
     },
   },
-}
+};
 </script>
 
 <style scoped>

@@ -2,21 +2,16 @@
   <div>
     <h1>Choose Your Killer</h1>
     <br />
+    <CharacterPlaceholder v-if="placeholder" />
     <div v-if="visible">
       <img
         :src="selectedKiller.image"
         :alt="selectedKiller.name"
         class="selected-killer"
       />
+      <h1>{{ selectedKiller.name }}</h1>
+      <h3>{{ selectedKiller.dlc }}</h3>
     </div>
-    <img
-      src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/general-icons/random-character-portrait.png"
-      alt="Random Killer Placeholder Portrait"
-      id="placeholder"
-    />
-    <p id="helper-text">Click the Killer icon below!</p>
-    <h1>{{ selectedKiller.name }}</h1>
-    <h3>{{ selectedKiller.dlc }}</h3>
   </div>
   <ButtonKiller @click="randomizer()" />
 </template>
@@ -24,16 +19,19 @@
 <script>
 import { killersArray } from "@/utils/killer/KillerArray.js";
 import ButtonKiller from "@/components/buttons/ButtonKiller.vue";
+import CharacterPlaceholder from "@/components/placeholders/CharacterPlaceholder.vue";
 
 export default {
   components: {
     ButtonKiller,
+    CharacterPlaceholder,
   },
   data() {
     return {
       killersArray: killersArray,
       selectedKiller: "",
       visible: false,
+      placeholder: true,
     };
   },
   methods: {
@@ -43,8 +41,7 @@ export default {
     },
     randomizer() {
       this.randomArray();
-      document.getElementById("placeholder").remove();
-      document.getElementById("helper-text").remove();
+      this.placeholder = false;
       this.visible = true;
     },
   },
