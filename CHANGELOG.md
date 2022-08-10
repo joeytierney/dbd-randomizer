@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/joeytierney/dbd-vue/compare/v0.1.3...v0.1.4) (2022-08-10)
+
+
+### Features
+
+* PerkPlaceholder component ([f0a97a6](https://github.com/joeytierney/dbd-vue/commit/f0a97a6dff3568d1a32664495c05c30e04db690b))
+* PerkPlaceholder component imported to KillerPerks ([804c21c](https://github.com/joeytierney/dbd-vue/commit/804c21cca3bfb848528e4660038a877de3534a90))
+* PerkPlaceholder component imported to SurvivorPerks ([e915c8b](https://github.com/joeytierney/dbd-vue/commit/e915c8b53cdac4fe6285469c0e43129d7b486141))
+
+
+### Bug Fixes
+
+* issue with placeholder and helper text not being removed ([f3eca64](https://github.com/joeytierney/dbd-vue/commit/f3eca644f886700c3f37cc5b5ccb60707703c3fd))
+
 ### [0.1.3](https://github.com/joeytierney/dbd-vue/compare/v0.1.1...v0.1.3) (2022-08-10)
 
 
