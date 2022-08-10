@@ -49,6 +49,19 @@ export default {
       visible: false,
     };
   },
+  methods: {
+    randomArray() {
+      const perkOne = Math.floor(Math.random() * this.killerPerks.length);
+      const perkTwo = Math.floor(Math.random() * this.killerPerks.length);
+      const perkThree = Math.floor(Math.random() * this.killerPerks.length);
+      const perkFour = Math.floor(Math.random() * this.killerPerks.length);
+
+      this.perkOne = this.killerPerks[perkOne];
+      this.perkTwo = this.killerPerks[perkTwo];
+      this.perkThree = this.killerPerks[perkThree];
+      this.perkFour = this.killerPerks[perkFour];
+    },
+  }
 }
 </script>
 
