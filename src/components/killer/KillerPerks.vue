@@ -122,6 +122,10 @@ export default {
         this.rerollFour();
       }
     },
+    randomizer() {
+      this.randomArray();
+      this.visible = true;
+    },
   },
 }
 </script>
