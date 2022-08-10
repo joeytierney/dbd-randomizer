@@ -30,6 +30,7 @@
 </template>
 
 <script>
+import { killerPerks } from "@/utils/killer/KillerPerkArray.js";
 import ButtonReRoll from "@/components/buttons/ButtonReRoll.vue";
 import ButtonPerk from "@/components/buttons/ButtonPerk.vue";
 
@@ -37,6 +38,16 @@ export default {
   components: {
     ButtonReRoll,
     ButtonPerk,
+  },
+  data() {
+    return {
+      killerPerks: killerPerks,
+      perkOne: "",
+      perkTwo: "",
+      perkThree: "",
+      perkFour: "",
+      visible: false,
+    };
   },
 }
 </script>
