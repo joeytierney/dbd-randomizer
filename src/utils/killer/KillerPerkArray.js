@@ -759,7 +759,7 @@ export const killerPerks = [
   {
     name: "Scourge Hook: Monstrous Shrine",
     image:
-      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/killers/monstrous-shrine.png",
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/killers/scourge-hook-monstrous-shrine.png",
     teachable: "All Killers",
     killer:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/00-all-killers.png",
