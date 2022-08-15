@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.5](https://github.com/joeytierney/dbd-vue/compare/v0.1.4...v0.1.5) (2022-08-15)
+
+
+### Features
+
+* killer and survivor perks added to array ([6d79cb6](https://github.com/joeytierney/dbd-vue/commit/6d79cb6641ee568938dcdca00b982b1fe7281cec))
+* killer and survivors from chapter 25 added to arrays ([85e91fe](https://github.com/joeytierney/dbd-vue/commit/85e91fe443facd01fecec7b8b6641634410dc104))
+* killer perks imported to view ([255b64b](https://github.com/joeytierney/dbd-vue/commit/255b64b6b640a11ef7429b8ad4a5864df4e29c3b))
+* killer real name and styles ([6496966](https://github.com/joeytierney/dbd-vue/commit/6496966b806aae7e078ec90608b3feb103392d5a))
+* perk placeholder updated for killer perks ([aaa5bdb](https://github.com/joeytierney/dbd-vue/commit/aaa5bdbb72dc5fedec23e5a8f673e05048c755a1))
+* repeat placeholder image 4 times to match 4 perks ([f04966f](https://github.com/joeytierney/dbd-vue/commit/f04966f5d0d9aee660dbb10aa0439b24da71a1ee))
+
+
+### Bug Fixes
+
+* image link for Scourge Hook: Monstrous Shrine being incorrect ([8bbce0c](https://github.com/joeytierney/dbd-vue/commit/8bbce0ccac763a693c7dde89b57c46170ae3a25b))
+* temp fix for reroll perks ([b200875](https://github.com/joeytierney/dbd-vue/commit/b200875e71c92eb9f5c462668002363272b1dbd8))
+
 ### [0.1.4](https://github.com/joeytierney/dbd-vue/compare/v0.1.3...v0.1.4) (2022-08-10)
 
 
