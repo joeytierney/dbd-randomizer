@@ -63,7 +63,7 @@ h3 {
 label {
   margin: unset;
   display: block;
-  color: white;
+  color: #fff;
   font-size: 1.2rem;
 }
 
@@ -81,7 +81,7 @@ nav {
 
 nav a {
   font-weight: bold;
-  color: #2c3e50;
+  color: #fff;
 }
 
 nav a.router-link-exact-active {
