@@ -10,6 +10,7 @@
         class="selected-killer"
       />
       <h1>{{ selectedKiller.name }}</h1>
+      <h2>{{ selectedKiller.realName }}</h2>
       <h3>{{ selectedKiller.dlc }}</h3>
     </div>
   </div>
@@ -58,6 +59,17 @@ h1 {
   text-align: center;
   text-transform: uppercase;
   color: #fff;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 1.5rem;
+  margin: 0 0 1rem 0;
+  text-align: center;
+  text-transform: uppercase;
+  color: #cccccc;
 }
 
 h3 {
