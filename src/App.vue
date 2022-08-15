@@ -60,6 +60,13 @@ h3 {
   color: #cccccc;
 }
 
+label {
+  margin: unset;
+  display: block;
+  color: white;
+  font-size: 1.2rem;
+}
+
 #app {
   font-family: Roboto, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
