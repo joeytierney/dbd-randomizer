@@ -5,6 +5,7 @@
     @click="onClick"
     class="reroll-button"
   />
+  <label>Reroll Perk</label>
 </template>
 
 <style scoped>
