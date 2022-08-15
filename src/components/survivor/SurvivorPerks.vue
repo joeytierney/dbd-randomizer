@@ -11,25 +11,49 @@
       <img :src="perkOne.image" :alt="perkOne.name" />
       <h1>{{ perkOne.name }}</h1>
       <h3>{{ perkOne.teachable }}</h3>
-      <ButtonReRoll @click="rerollOne" />
+      <img
+        src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/general-icons/random-reroll-icon.png"
+        alt="Click here to reroll the perk above!"
+        @click="rerollOne()"
+        class="reroll-button"
+      />
+      <label>Reroll Perk</label>
     </div>
     <div class="selected-perk">
       <img :src="perkTwo.image" :alt="perkTwo.name" />
       <h1>{{ perkTwo.name }}</h1>
       <h3>{{ perkTwo.teachable }}</h3>
-      <ButtonReRoll @click="rerollTwo" />
+      <img
+        src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/general-icons/random-reroll-icon.png"
+        alt="Click here to reroll the perk above!"
+        @click="rerollTwo()"
+        class="reroll-button"
+      />
+      <label>Reroll Perk</label>
     </div>
     <div class="selected-perk">
       <img :src="perkThree.image" :alt="perkThree.name" />
       <h1>{{ perkThree.name }}</h1>
       <h3>{{ perkThree.teachable }}</h3>
-      <ButtonReRoll @click="rerollThree" />
+      <img
+        src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/general-icons/random-reroll-icon.png"
+        alt="Click here to reroll the perk above!"
+        @click="rerollThree()"
+        class="reroll-button"
+      />
+      <label>Reroll Perk</label>
     </div>
     <div class="selected-perk">
       <img :src="perkFour.image" :alt="perkFour.name" />
       <h1>{{ perkFour.name }}</h1>
       <h3>{{ perkFour.teachable }}</h3>
-      <ButtonReRoll @click="rerollFour" />
+      <img
+        src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/general-icons/random-reroll-icon.png"
+        alt="Click here to reroll the perk above!"
+        @click="rerollFour()"
+        class="reroll-button"
+      />
+      <label>Reroll Perk</label>
     </div>
   </div>
   <ButtonPerk @click="randomizer()" />
@@ -37,13 +61,11 @@
 
 <script>
 import { survivorPerks } from "@/utils/survivor/SurvivorPerkArray.js";
-import ButtonReRoll from "@/components/buttons/ButtonReRoll.vue";
 import ButtonPerk from "@/components/buttons/ButtonPerk.vue";
 import PerkPlaceholder from "@/components/placeholders/PerkPlaceholder.vue";
 
 export default {
   components: {
-    ButtonReRoll,
     ButtonPerk,
     PerkPlaceholder,
   },
@@ -165,5 +187,16 @@ h3 {
   content: "";
   display: table;
   clear: both;
+}
+
+.reroll-button {
+  cursor: pointer;
+  width: 7.6875rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.reroll-button:active {
+  transform: translateY(0.25rem);
 }
 </style>
