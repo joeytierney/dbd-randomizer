@@ -147,6 +147,15 @@ export default {
   }
 }
 
+h1 {
+  margin-top: 1.2rem;
+  font-size: 1.5rem;
+}
+
+h3 {
+  color: #ff8800;
+}
+
 .selected-perk {
   float: left;
   width: 25%;
