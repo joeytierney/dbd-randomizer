@@ -47,3 +47,36 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 3rem;
+  margin: 0 0 1rem 0;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 1rem;
+  margin: 0 0 1rem 0;
+  text-align: center;
+  text-transform: uppercase;
+  color: #aa0101;
+}
+
+img {
+  color: white;
+}
+
+.selected-killer {
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
