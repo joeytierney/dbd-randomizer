@@ -2,6 +2,8 @@ import { createRouter, createWebHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
 import RandomSurvivor from "../views/RandomSurvivor.vue";
 import RandomSurvivorPerks from "../views/RandomSurvivorPerks.vue";
+import RandomKiller from "../views/RandomKiller.vue";
+import RandomKillerPerks from "../views/RandomKillerPerks.vue";
 
 const routes = [
   {
@@ -18,6 +20,16 @@ const routes = [
     path: "/survivor-perks",
     name: "survivor-perks",
     component: RandomSurvivorPerks,
+  },
+  {
+    path: "/killer",
+    name: "killer",
+    component: RandomKiller,
+  },
+  {
+    path: "/killer-perks",
+    name: "killer-perks",
+    component: RandomKillerPerks,
   },
   {
     path: "/about",

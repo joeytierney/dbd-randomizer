@@ -10,6 +10,7 @@
         class="selected-killer"
       />
       <h1>{{ selectedKiller.name }}</h1>
+      <h2>{{ selectedKiller.realName }}</h2>
       <h3>{{ selectedKiller.dlc }}</h3>
     </div>
   </div>
@@ -47,3 +48,47 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 3rem;
+  margin: 0 0 1rem 0;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 1.5rem;
+  margin: 0 0 1rem 0;
+  text-align: center;
+  text-transform: uppercase;
+  color: #cccccc;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 1rem;
+  margin: 0 0 1rem 0;
+  text-align: center;
+  text-transform: uppercase;
+  color: #aa0101;
+}
+
+img {
+  color: white;
+}
+
+.selected-killer {
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
