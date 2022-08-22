@@ -3,15 +3,18 @@
     <NavBar />
   </div>
   <router-view />
+  <TheFooter />
 </template>
 
 <script>
 import NavBar from "@/components/navbar/NavBar.vue";
+import TheFooter from "@/components/footer/TheFooter.vue";
 
 export default {
   name: "App",
   components: {
     NavBar,
+    TheFooter,
   },
 };
 </script>
