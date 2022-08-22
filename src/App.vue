@@ -1,10 +1,20 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
+  <div id="app">
+    <NavBar />
+  </div>
   <router-view />
 </template>
+
+<script>
+import NavBar from "@/components/navbar/NavBar.vue";
+
+export default {
+  name: "App",
+  components: {
+    NavBar,
+  },
+};
+</script>
 
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
@@ -67,24 +77,23 @@ label {
   font-size: 1.2rem;
 }
 
+a.link {
+  color: #fff;
+  border-bottom: 0.125rem solid rgba(255, 255, 255, 0.25);
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.1s ease-in-out;
+}
+
+a.link:hover {
+  color: #aaa;
+}
+
 #app {
-  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-}
-
-nav {
-  padding: 30px;
-}
-
-nav a {
-  font-weight: bold;
-  color: #fff;
-}
-
-nav a.router-link-exact-active {
-  color: #42b983;
+  color: #202427;
 }
 </style>
