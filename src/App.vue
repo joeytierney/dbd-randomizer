@@ -97,6 +97,6 @@ a.link:hover {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #202427;
+  color: #fff;
 }
 </style>

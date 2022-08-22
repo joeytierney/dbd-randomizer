@@ -17,6 +17,14 @@
               rel="noreferrer"
               >Joey Tierney</a
             >
+            |
+            <router-link
+              to="/privacy-policy"
+              class="text-white hover:text-gray-400 text-sm font-semibold py-1"
+              title="https://twitter.com/joeytiernee"
+              rel="noreferrer"
+              >Privacy Policy</router-link
+            >
           </div>
         </div>
         <div class="w-full md:w-8/12 px-4">
