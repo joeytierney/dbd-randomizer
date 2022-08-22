@@ -23,42 +23,54 @@
           <ul class="flex flex-wrap list-none md:justify-end justify-center">
             <li>
               <a
-                href="https://www.creative-tim.com"
+                href="https://www.twitter.com/joeytiernee"
                 class="text-white hover:text-gray-400 text-sm font-semibold block py-1 px-3"
                 ><img
                   src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/social-media-icons/twitter.png"
                   alt="Twitter"
                   width="20"
+                  target="_blank"
+                  title="Follow me on Twitter"
+                  rel="noreferrer"
               /></a>
             </li>
             <li>
               <a
-                href="https://www.creative-tim.com/presentation"
+                href="https://www.youtube.com/user/YTwoJT?sub_confirmation=1"
                 class="text-white hover:text-gray-400 text-sm font-semibold block py-1 px-3"
                 ><img
                   src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/social-media-icons/youtube.png"
                   alt="YouTube"
                   width="27"
+                  target="_blank"
+                  title="Subscribe to my YouTube channel"
+                  rel="noreferrer"
               /></a>
             </li>
             <li>
               <a
-                href="http://blog.creative-tim.com"
+                href="https://github.com/joeytierney"
                 class="text-white hover:text-gray-400 text-sm font-semibold block py-1 px-3"
                 ><img
                   src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/social-media-icons/github.png"
                   alt="GitHub"
                   width="20"
+                  target="_blank"
+                  title="Follow me on GitHub"
+                  rel="noreferrer"
               /></a>
             </li>
             <li>
               <a
-                href="https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md"
+                href="https://ie.linkedin.com/in/joey-tierney"
                 class="text-white hover:text-gray-400 text-sm font-semibold block py-1 px-3"
                 ><img
                   src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/social-media-icons/linkedin.png"
                   alt="LinkedIn"
                   width="20"
+                  target="_blank"
+                  title="Connect with me on LinkedIn"
+                  rel="noreferrer"
               /></a>
             </li>
           </ul>
