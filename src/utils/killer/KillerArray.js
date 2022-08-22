@@ -261,7 +261,7 @@ export const killersArray = [
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/21a-the-ferryman.png",
     realName: "Greek Legends",
-    dlc: "UTRA-RARE SKIN FOR: The Blight",
+    dlc: "ULTRA-RARE SKIN FOR: The Blight",
   },
   {
     name: "The Chatterer",
@@ -270,4 +270,11 @@ export const killersArray = [
     realName: "Jim",
     dlc: "LEGENDARY SKIN FOR: The Cenobite",
   },
+  // {
+  //   name: "TBA",
+  //   image:
+  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/14a-tba-tba.png",
+  //   realName: "tba",
+  //   dlc: "LEGENDARY/ULTRA-RARE SKIN FOR: The Legion",
+  // },
 ];

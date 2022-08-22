@@ -238,4 +238,16 @@ export const survivorsArray = [
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/27a-chris-redfield.png",
     dlc: "LEGENDARY SKIN FOR: Leon S. Kennedy",
   },
+  // {
+  //   name: "Sheva Alomar",
+  //   image:
+  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/26b-sheva-alomar.png",
+  //   dlc: "LEGENDARY SKIN FOR: Jill Valentine",
+  // },
+  // {
+  //   name: "Carlos Oliveira",
+  //   image:
+  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/27b-carlos-oliveira.png",
+  //   dlc: "LEGENDARY SKIN FOR: Leon S. Kennedy",
+  // },
 ];
