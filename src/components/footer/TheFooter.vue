@@ -25,29 +25,41 @@
               <a
                 href="https://www.creative-tim.com"
                 class="text-white hover:text-gray-400 text-sm font-semibold block py-1 px-3"
-                >Creative Tim</a
-              >
+                ><img
+                  src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/social-media-icons/twitter.png"
+                  alt="Twitter"
+                  width="20"
+              /></a>
             </li>
             <li>
               <a
                 href="https://www.creative-tim.com/presentation"
                 class="text-white hover:text-gray-400 text-sm font-semibold block py-1 px-3"
-                >About Us</a
-              >
+                ><img
+                  src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/social-media-icons/youtube.png"
+                  alt="YouTube"
+                  width="27"
+              /></a>
             </li>
             <li>
               <a
                 href="http://blog.creative-tim.com"
                 class="text-white hover:text-gray-400 text-sm font-semibold block py-1 px-3"
-                >Blog</a
-              >
+                ><img
+                  src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/social-media-icons/github.png"
+                  alt="GitHub"
+                  width="20"
+              /></a>
             </li>
             <li>
               <a
                 href="https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md"
                 class="text-white hover:text-gray-400 text-sm font-semibold block py-1 px-3"
-                >MIT License</a
-              >
+                ><img
+                  src="https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/social-media-icons/linkedin.png"
+                  alt="LinkedIn"
+                  width="20"
+              /></a>
             </li>
           </ul>
         </div>
