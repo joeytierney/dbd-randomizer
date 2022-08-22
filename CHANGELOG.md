@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.7](https://github.com/joeytierney/dbd-vue/compare/v0.1.6...v0.1.7) (2022-08-22)
+
+
+### Features
+
+* footer component ([f5e83ef](https://github.com/joeytierney/dbd-vue/commit/f5e83ef0e240bd5c135a2db06200dc51411db5b0))
+* links added to social media icons ([9139b3b](https://github.com/joeytierney/dbd-vue/commit/9139b3b379a4ab4deb6a191276486255a548d7d7))
+* social media icons added to footer ([8e38d01](https://github.com/joeytierney/dbd-vue/commit/8e38d019990d864dc3135c34d9e44526be86340d))
+
 ### [0.1.6](https://github.com/joeytierney/dbd-vue/compare/v0.1.5...v0.1.6) (2022-08-22)
 
 
