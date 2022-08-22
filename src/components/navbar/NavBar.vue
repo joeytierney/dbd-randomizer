@@ -14,6 +14,42 @@
           <router-link to="/killer-perks" class="nav-item nav-link">Killer Perks</router-link>
         </div>
       </div>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
     </nav>
   </div>
 </template>
+
+<style>
+#nav {
+  text-align: center;
+}
+
+#nav a {
+  font-weight: bold;
+  color: #cccccc;
+}
+
+#nav a.router-link-exact-active {
+  color: #cccccc;
+  border-bottom: 0.125rem solid rgba(170, 1, 1, 1);
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.1s ease-in-out;
+}
+
+#nav a:hover {
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.1s ease-in-out;
+}
+</style>
