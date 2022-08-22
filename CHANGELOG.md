@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.6](https://github.com/joeytierney/dbd-vue/compare/v0.1.5...v0.1.6) (2022-08-22)
+
+
+### Features
+
+* firefox navbar, navbar updates ([3ea94b8](https://github.com/joeytierney/dbd-vue/commit/3ea94b8628bea3cbb6ce260ed1cdd5848096ebc7))
+* NavBar component created, DBD logo added and transparent design ([e18592b](https://github.com/joeytierney/dbd-vue/commit/e18592b543dddb89bf5e2d10c608165fdede58cc))
+* navbar mobile menu and style ([f41f36c](https://github.com/joeytierney/dbd-vue/commit/f41f36cb33d6915604ee6ea75fb85ea48a3672c0))
+* router-links to navbar ([03dee05](https://github.com/joeytierney/dbd-vue/commit/03dee0578e58293e7e9350af50f034412ce36638))
+* tailwind config file to include firefox navbar ([cffd1c2](https://github.com/joeytierney/dbd-vue/commit/cffd1c2d111c3b3844354b0c298227e430676456))
+
 ### [0.1.5](https://github.com/joeytierney/dbd-vue/compare/v0.1.4...v0.1.5) (2022-08-15)
 
 
