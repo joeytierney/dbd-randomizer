@@ -1,9 +1,9 @@
 import { createRouter, createWebHistory } from "vue-router";
-import HomeView from "../views/HomeView.vue";
-import RandomSurvivor from "../views/RandomSurvivor.vue";
-import RandomSurvivorPerks from "../views/RandomSurvivorPerks.vue";
-import RandomKiller from "../views/RandomKiller.vue";
-import RandomKillerPerks from "../views/RandomKillerPerks.vue";
+import HomeView from "@/views/HomeView.vue";
+import RandomSurvivor from "@/views/RandomSurvivor.vue";
+import RandomSurvivorPerks from "@/views/RandomSurvivorPerks.vue";
+import RandomKiller from "@/views/RandomKiller.vue";
+import RandomKillerPerks from "@/views/RandomKillerPerks.vue";
 
 const routes = [
   {
