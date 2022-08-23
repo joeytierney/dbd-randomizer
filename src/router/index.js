@@ -4,7 +4,7 @@ import RandomSurvivor from "@/views/RandomSurvivor.vue";
 import RandomSurvivorPerks from "@/views/RandomSurvivorPerks.vue";
 import RandomKiller from "@/views/RandomKiller.vue";
 import RandomKillerPerks from "@/views/RandomKillerPerks.vue";
-import PrivacyPolicy from "@/views/PrivacyPolicy.vue";
+import PrivacyPolicyView from "@/views/PrivacyPolicyView.vue";
 
 const routes = [
   {
@@ -35,7 +35,7 @@ const routes = [
   {
     path: "/privacy-policy",
     name: "privacy-policy",
-    component: PrivacyPolicy,
+    component: PrivacyPolicyView,
   },
   {
     path: "/about",
