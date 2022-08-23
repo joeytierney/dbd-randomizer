@@ -8,12 +8,16 @@
   <div class="home-survivors">
     <h1 class="survivors-header">Survivors</h1>
     <h2 class="survivors-subheader">Random Survivor Perks</h2>
-    <ButtonSurvivor />
+    <router-link to="/survivor-perks">
+      <ButtonSurvivor />
+    </router-link>
   </div>
   <div class="home-killers">
     <h1 class="killers-header">Killers</h1>
     <h2 class="killers-subheader">Random Killer Perks</h2>
-    <ButtonKiller />
+    <router-link to="/killer-perks">
+      <ButtonKiller />
+    </router-link>
   </div>
 </template>
 
@@ -40,6 +44,7 @@ export default {
   font-size: 3.5rem;
   text-align: center;
   margin-top: 0.5rem;
+  margin-bottom: 7.5rem;
 }
 
 .home-survivors {
@@ -50,6 +55,7 @@ export default {
 .survivors-header,
 .killers-header {
   font-size: 2.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .survivors-subheader,
