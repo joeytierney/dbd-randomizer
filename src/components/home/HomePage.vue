@@ -5,19 +5,21 @@
     class="home-logo"
   />
   <h1 class="home-header">Randomizer</h1>
-  <div class="home-survivors">
-    <h1 class="survivors-header">Survivors</h1>
-    <h2 class="survivors-subheader">Random Survivor Perks</h2>
-    <router-link to="/survivor-perks">
-      <ButtonSurvivor />
-    </router-link>
-  </div>
-  <div class="home-killers">
-    <h1 class="killers-header">Killers</h1>
-    <h2 class="killers-subheader">Random Killer Perks</h2>
-    <router-link to="/killer-perks">
-      <ButtonKiller />
-    </router-link>
+  <div class="quick-links">
+    <div class="perk-links">
+      <h1 class="survivors-header">Survivors</h1>
+      <h2 class="survivors-subheader">Random Survivor Perks</h2>
+      <router-link to="/survivor-perks">
+        <ButtonSurvivor />
+      </router-link>
+    </div>
+    <div class="selected-perk">
+      <h1 class="killers-header">Killers</h1>
+      <h2 class="killers-subheader">Random Killer Perks</h2>
+      <router-link to="/killer-perks">
+        <ButtonKiller />
+      </router-link>
+    </div>
   </div>
 </template>
 
@@ -47,11 +49,6 @@ export default {
   margin-bottom: 7.5rem;
 }
 
-.home-survivors {
-  float: left;
-  width: 50%;
-}
-
 .survivors-header,
 .killers-header {
   font-size: 2.5rem;
@@ -63,8 +60,14 @@ export default {
   font-size: 1.5rem;
 }
 
-.home-killers {
-  float: right;
+.perk-links {
+  float: left;
   width: 50%;
+}
+
+.quick-links:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 </style>
