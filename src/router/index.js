@@ -6,6 +6,7 @@ import SurvivorPerksView from "@/views/SurvivorPerksView.vue";
 import KillerView from "@/views/KillerView.vue";
 import KillerPerksView from "@/views/KillerPerksView.vue";
 import PrivacyPolicyView from "@/views/PrivacyPolicyView.vue";
+import ErrorView from "@/views/404View.vue";
 
 const routes = [
   {
@@ -42,6 +43,11 @@ const routes = [
     path: "/privacy-policy",
     name: "privacy-policy",
     component: PrivacyPolicyView,
+  },
+  {
+    path: "/:catchAll(.*)",
+    name: "error-404",
+    component: ErrorView,
   },
 ];
 
