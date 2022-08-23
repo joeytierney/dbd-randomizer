@@ -11,7 +11,7 @@
             Copyright © {{ date }}
             <a
               href="https://www.twitter.com/joeytiernee"
-              class="text-white hover:text-gray-400 text-sm font-semibold py-1"
+              class="text-white hover:text-gray-400 text-sm font-semibold py-1, link"
               target="_blank"
               title="https://twitter.com/joeytiernee"
               rel="noreferrer"
@@ -20,8 +20,8 @@
             |
             <router-link
               to="/privacy-policy"
-              class="text-white hover:text-gray-400 text-sm font-semibold py-1"
-              title="https://twitter.com/joeytiernee"
+              class="text-white hover:text-gray-400 text-sm font-semibold py-1, link"
+              title="Privacy Policy page"
               rel="noreferrer"
               >Privacy Policy</router-link
             >
