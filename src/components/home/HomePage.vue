@@ -5,17 +5,10 @@
     class="home-logo"
   />
   <h1 class="home-header">Randomizer</h1>
-  <br />
-  <br />
-  <div class="survivorsPerk">
-    <h1 class="survHeader">Survivors</h1>
-    <h2 class="subSurvHeader">Random Survivor Perks</h2>
-    <router-link to="/perks/survivor-perks"
-      ><img
-        src="https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/icons/survivor-icon.png"
-        alt="Random Survivor Perk button"
-        class="toRndPerkButton"
-    /></router-link>
+  <div class="home-survivors">
+    <h1 class="survivors-header">Survivors</h1>
+    <h2 class="survivors-subheader">Random Survivor Perks</h2>
+    <ButtonSurvivor />
   </div>
   <div class="killersPerk">
     <h1 class="killerHeader">Killers</h1>
@@ -28,6 +21,16 @@
     /></router-link>
   </div>
 </template>
+
+<script>
+import ButtonSurvivor from "@/components/buttons/ButtonSurvivor.vue";
+
+export default {
+  components: {
+    ButtonSurvivor,
+  },
+};
+</script>
 
 <style scoped>
 .home-logo {
@@ -42,16 +45,17 @@
   margin-top: 0.5rem;
 }
 
-.survivorsPerk {
+.home-survivors {
   float: left;
   width: 50%;
 }
 
-.survBg {
-  position: absolute;
-  left: 5%;
-  height: 36rem;
-  opacity: 0.3;
+.survivors-header {
+  font-size: 2.5rem;
+}
+
+.survivors-subheader {
+  font-size: 1.5rem;
 }
 
 .killersPerk {
