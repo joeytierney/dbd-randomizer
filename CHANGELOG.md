@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.8](https://github.com/joeytierney/dbd-vue/compare/v0.1.7...v0.1.8) (2022-08-23)
+
+
+### Features
+
+* 404 page component, content and style ([1db4309](https://github.com/joeytierney/dbd-vue/commit/1db430995f06871507833c72464e24093e8baa37))
+* AboutPage component and content created ([c564db6](https://github.com/joeytierney/dbd-vue/commit/c564db61ae98e7b40c27ce2ba06a37420a2f0807))
+* AboutPage component imported to AboutView ([ab55300](https://github.com/joeytierney/dbd-vue/commit/ab55300676f4554851ea46654f36f23320aea182))
+* home page content and styles ([cea84cc](https://github.com/joeytierney/dbd-vue/commit/cea84ccb5f3d5c3b252db3103a62d6cb923d1786))
+* homepage style updates, survivor button imported ([9e7592f](https://github.com/joeytierney/dbd-vue/commit/9e7592f0e367f151f9fdabf974a7c51587aef2a9))
+* killer home section style and button import ([7e7e603](https://github.com/joeytierney/dbd-vue/commit/7e7e603f7df793f6f2ab219fe5663063b0621ee2))
+* privacy policy page content, style updates, router updates ([52905e1](https://github.com/joeytierney/dbd-vue/commit/52905e10290b1422dbfdb8ac3fd17228b9a84900))
+* Sheva and Carlos characters added ([76d9666](https://github.com/joeytierney/dbd-vue/commit/76d966662b1c38d218b2c901ac0382d94d592684))
+
 ### [0.1.7](https://github.com/joeytierney/dbd-vue/compare/v0.1.6...v0.1.7) (2022-08-22)
 
 
