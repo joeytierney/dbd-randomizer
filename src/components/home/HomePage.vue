@@ -10,24 +10,21 @@
     <h2 class="survivors-subheader">Random Survivor Perks</h2>
     <ButtonSurvivor />
   </div>
-  <div class="killersPerk">
-    <h1 class="killerHeader">Killers</h1>
-    <h2 class="subKillerHeader">Random Killer Perks</h2>
-    <router-link to="/perks/killer-perks"
-      ><img
-        src="https://raw.githubusercontent.com/joeytierney/deadbydaylight-randomizer/main/public/assets/icons/killer-icon.png"
-        alt="Random Killer Perk button"
-        class="toRndPerkButton"
-    /></router-link>
+  <div class="home-killers">
+    <h1 class="killers-header">Killers</h1>
+    <h2 class="killers-subheader">Random Killer Perks</h2>
+    <ButtonKiller />
   </div>
 </template>
 
 <script>
 import ButtonSurvivor from "@/components/buttons/ButtonSurvivor.vue";
+import ButtonKiller from "@/components/buttons/ButtonKiller.vue";
 
 export default {
   components: {
     ButtonSurvivor,
+    ButtonKiller,
   },
 };
 </script>
@@ -50,31 +47,18 @@ export default {
   width: 50%;
 }
 
-.survivors-header {
+.survivors-header,
+.killers-header {
   font-size: 2.5rem;
 }
 
-.survivors-subheader {
+.survivors-subheader,
+.killers-subheader {
   font-size: 1.5rem;
 }
 
-.killersPerk {
+.home-killers {
   float: right;
   width: 50%;
-}
-
-.killerBg {
-  position: absolute;
-  right: 1%;
-  height: 36rem;
-  opacity: 0.3;
-}
-
-.toRndPerkButton {
-  cursor: pointer;
-}
-
-.toRndPerkButton:active {
-  transform: translateY(0.25rem);
 }
 </style>
