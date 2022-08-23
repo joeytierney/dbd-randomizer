@@ -1,9 +1,9 @@
 import { createRouter, createWebHistory } from "vue-router";
 import HomeView from "@/views/HomeView.vue";
-import RandomSurvivor from "@/views/RandomSurvivor.vue";
-import RandomSurvivorPerks from "@/views/RandomSurvivorPerks.vue";
-import RandomKiller from "@/views/RandomKiller.vue";
-import RandomKillerPerks from "@/views/RandomKillerPerks.vue";
+import SurvivorView from "@/views/SurvivorView.vue";
+import SurvivorPerksView from "@/views/SurvivorPerksView.vue";
+import KillerView from "@/views/KillerView.vue";
+import KillerPerksView from "@/views/KillerPerksView.vue";
 import PrivacyPolicyView from "@/views/PrivacyPolicyView.vue";
 
 const routes = [
@@ -15,22 +15,22 @@ const routes = [
   {
     path: "/survivor",
     name: "survivor",
-    component: RandomSurvivor,
+    component: SurvivorView,
   },
   {
     path: "/survivor-perks",
     name: "survivor-perks",
-    component: RandomSurvivorPerks,
+    component: SurvivorPerksView,
   },
   {
     path: "/killer",
     name: "killer",
-    component: RandomKiller,
+    component: KillerView,
   },
   {
     path: "/killer-perks",
     name: "killer-perks",
-    component: RandomKillerPerks,
+    component: KillerPerksView,
   },
   {
     path: "/privacy-policy",
