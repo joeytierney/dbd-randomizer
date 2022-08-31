@@ -195,13 +195,13 @@ export const killersArray = [
     realName: "Unknown",
     dlc: "CHAPTER 24: Roots of Dread",
   },
-  // {
-  //   name: "The Mastermind",
-  //   image:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/29-the-mastermind.png",
-  //   realName: "Unknown",
-  //   dlc: "CHAPTER 25: Resident Evil™: PROJECT W",
-  // },
+  {
+    name: "The Mastermind",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/29-the-mastermind.png",
+    realName: "Albert Wesker",
+    dlc: "CHAPTER 25: Resident Evil™: PROJECT W",
+  },
 
   // **************************************
   // LEGENDARY AND ULTRA-RARE SKINS SECTION
@@ -270,11 +270,11 @@ export const killersArray = [
     realName: "Jim",
     dlc: "LEGENDARY SKIN FOR: The Cenobite",
   },
-  // {
-  //   name: "TBA",
-  //   image:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/14a-tba-tba.png",
-  //   realName: "tba",
-  //   dlc: "LEGENDARY/ULTRA-RARE SKIN FOR: The Legion",
-  // },
+  {
+    name: "The Grim Reaper",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/14a-the-grim-reaper.png",
+    realName: "HUNK",
+    dlc: "LEGENDARY SKIN FOR: The Legion",
+  },
 ];

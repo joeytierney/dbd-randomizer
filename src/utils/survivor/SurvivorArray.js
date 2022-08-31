@@ -153,13 +153,13 @@ export const survivorsArray = [
     name: "Jill Valentine",
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/26-jill-valentine.png",
-    dlc: "CHAPTER 20: Resident Evil",
+    dlc: "CHAPTER 20: Resident Evil™",
   },
   {
     name: "Leon S. Kennedy",
     image:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/27-leon-s-kennedy.png",
-    dlc: "CHAPTER 20: Resident Evil",
+    dlc: "CHAPTER 20: Resident Evil™",
   },
   {
     name: "Mikaela Reid",
@@ -185,18 +185,18 @@ export const survivorsArray = [
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/31-haddie-kaur.png",
     dlc: "CHAPTER 24: Roots of Dread",
   },
-  // {
-  //   name: "Ada Wong",
-  //   image:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/32-ada-wong.png",
-  //   dlc: "CHAPTER 25: Resident Evil™: PROJECT W",
-  // },
-  // {
-  //   name: "Rebecca Chambers",
-  //   image:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/33-rebecca-chambers.png",
-  //   dlc: "CHAPTER 25: Resident Evil™: PROJECT W",
-  // },
+  {
+    name: "Ada Wong",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/32-ada-wong.png",
+    dlc: "CHAPTER 25: Resident Evil™: PROJECT W",
+  },
+  {
+    name: "Rebecca Chambers",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/33-rebecca-chambers.png",
+    dlc: "CHAPTER 25: Resident Evil™: PROJECT W",
+  },
 
   // **************************************
   // LEGENDARY AND ULTRA-RARE SKINS SECTION
@@ -238,16 +238,16 @@ export const survivorsArray = [
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/27a-chris-redfield.png",
     dlc: "LEGENDARY SKIN FOR: Leon S. Kennedy",
   },
-  // {
-  //   name: "Sheva Alomar",
-  //   image:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/26b-sheva-alomar.png",
-  //   dlc: "LEGENDARY SKIN FOR: Jill Valentine",
-  // },
-  // {
-  //   name: "Carlos Oliveira",
-  //   image:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/27b-carlos-oliveira.png",
-  //   dlc: "LEGENDARY SKIN FOR: Leon S. Kennedy",
-  // },
+  {
+    name: "Sheva Alomar",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/26b-sheva-alomar.png",
+    dlc: "LEGENDARY SKIN FOR: Jill Valentine",
+  },
+  {
+    name: "Carlos Oliveira",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/27b-carlos-oliveira.png",
+    dlc: "LEGENDARY SKIN FOR: Leon S. Kennedy",
+  },
 ];
