@@ -195,13 +195,13 @@ export const killersArray = [
     realName: "Unknown",
     dlc: "CHAPTER 24: Roots of Dread",
   },
-  // {
-  //   name: "The Mastermind",
-  //   image:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/29-the-mastermind.png",
-  //   realName: "Unknown",
-  //   dlc: "CHAPTER 25: Resident Evil™: PROJECT W",
-  // },
+  {
+    name: "The Mastermind",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/29-the-mastermind.png",
+    realName: "Albert Wesker",
+    dlc: "CHAPTER 25: Resident Evil™: PROJECT W",
+  },
 
   // **************************************
   // LEGENDARY AND ULTRA-RARE SKINS SECTION
