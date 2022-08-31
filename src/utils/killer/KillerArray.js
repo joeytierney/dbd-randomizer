@@ -270,11 +270,11 @@ export const killersArray = [
     realName: "Jim",
     dlc: "LEGENDARY SKIN FOR: The Cenobite",
   },
-  // {
-  //   name: "TBA",
-  //   image:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/14a-tba-tba.png",
-  //   realName: "tba",
-  //   dlc: "LEGENDARY/ULTRA-RARE SKIN FOR: The Legion",
-  // },
+  {
+    name: "The Grim Reaper",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/14a-the-grim-reaper.png",
+    realName: "HUNK",
+    dlc: "LEGENDARY SKIN FOR: The Legion",
+  },
 ];
