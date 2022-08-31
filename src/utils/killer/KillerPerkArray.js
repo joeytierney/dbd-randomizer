@@ -671,30 +671,30 @@ export const killerPerks = [
     killer:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/28-the-dredge.png",
   },
-  // {
-  //   name: "Superior Anatomy",
-  //   image:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/killers/superior-anatomy.png",
-  //   teachable: "The Mastermind Teachable Perk",
-  //   killer:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/29-the-mastermind.png",
-  // },
-  // {
-  //   name: "Awakened Awareness",
-  //   image:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/killers/awakened-awareness.png",
-  //   teachable: "The Mastermind Teachable Perk",
-  //   killer:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/29-the-mastermind.png",
-  // },
-  // {
-  //   name: "Terminus",
-  //   image:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/killers/terminus.png",
-  //   teachable: "The Mastermind Teachable Perk",
-  //   killer:
-  //     "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/29-the-mastermind.png",
-  // },
+  {
+    name: "Superior Anatomy",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/killers/superior-anatomy.png",
+    teachable: "The Mastermind Teachable Perk",
+    killer:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/29-the-mastermind.png",
+  },
+  {
+    name: "Awakened Awareness",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/killers/awakened-awareness.png",
+    teachable: "The Mastermind Teachable Perk",
+    killer:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/29-the-mastermind.png",
+  },
+  {
+    name: "Terminus",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/killers/terminus.png",
+    teachable: "The Mastermind Teachable Perk",
+    killer:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/29-the-mastermind.png",
+  },
 
   // **************************************
   // GENERAL KILLER PERKS SECTION
