@@ -183,6 +183,12 @@ h3 {
   width: 25%;
 }
 
+.perks {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .perks:after {
   content: "";
   display: table;
