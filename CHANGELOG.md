@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.9](https://github.com/joeytierney/dbd-vue/compare/v0.1.8...v0.1.9) (2022-08-31)
+
+
+### Features
+
+* HUNK (The Grim Reaper) added to killers ([796f2e0](https://github.com/joeytierney/dbd-vue/commit/796f2e0f0a3400127982d54ac3e4967dae5caf22))
+* new killer perks added ([41905dc](https://github.com/joeytierney/dbd-vue/commit/41905dc965db5c4ca17adcb325a8eb4d7fc7db24))
+* new survivor perks added ([290a90b](https://github.com/joeytierney/dbd-vue/commit/290a90b1701af95f3cd13dd53ccad3ff5b3ff93c))
+* Sheva and Carlos portraits added, Jill's updated ([6a18b44](https://github.com/joeytierney/dbd-vue/commit/6a18b441c41f4b4c70583eeb613ed2b0880deb21))
+
+
+### Bug Fixes
+
+* social media links not opening in new tab ([a94008f](https://github.com/joeytierney/dbd-vue/commit/a94008f3fd960b5b8bd53a0b651940d6d4ea3fd1))
+
 ### [0.1.8](https://github.com/joeytierney/dbd-vue/compare/v0.1.7...v0.1.8) (2022-08-23)
 
 
