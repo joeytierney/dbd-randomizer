@@ -202,6 +202,13 @@ export const killersArray = [
     realName: "Albert Wesker",
     dlc: "CHAPTER 25: Resident Evil™: PROJECT W",
   },
+  {
+    name: "The Knight",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/30-the-knight.png",
+    realName: "Tarhos Kovács",
+    dlc: "CHAPTER 26: Forged in Fog",
+  },
 
   // **************************************
   // LEGENDARY AND ULTRA-RARE SKINS SECTION
