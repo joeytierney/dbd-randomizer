@@ -197,6 +197,12 @@ export const survivorsArray = [
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/33-rebecca-chambers.png",
     dlc: "CHAPTER 25: Resident Evil™: PROJECT W",
   },
+  {
+    name: "Vittorio Toscano",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/34-vittorio-toscano.png",
+    dlc: "CHAPTER 26: Forged in Fog",
+  },
 
   // **************************************
   // LEGENDARY AND ULTRA-RARE SKINS SECTION
