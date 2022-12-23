@@ -791,6 +791,30 @@ export const survivorPerks = [
     survivor:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/33-rebecca-chambers.png",
   },
+  {
+    name: "Potential Energy",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/potential-energy.png",
+    teachable: "Vittorio Toscano Teachable Perk",
+    survivor:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/34-vittorio-toscano.png",
+  },
+  {
+    name: "Fogwise",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/fogwise.png",
+    teachable: "Vittorio Toscano Teachable Perk",
+    survivor:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/34-vittorio-toscano.png",
+  },
+  {
+    name: "Quick Gambit",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/survivors/quick-gambit.png",
+    teachable: "Vittorio Toscano Teachable Perk",
+    survivor:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/survivors/34-vittorio-toscano.png",
+  },
 
   // **************************************
   // GENERAL SURVIVOR PERKS SECTION

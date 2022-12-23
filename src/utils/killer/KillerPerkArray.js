@@ -695,6 +695,30 @@ export const killerPerks = [
     killer:
       "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/29-the-mastermind.png",
   },
+  {
+    name: "Nowhere to Hide",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/killers/nowhere-to-hide.png",
+    teachable: "The Knight Teachable Perk",
+    killer:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/30-the-knight.png",
+  },
+  {
+    name: "Hex: Face the Darkness",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/killers/hex-face-the-darkness.png",
+    teachable: "The Knight Teachable Perk",
+    killer:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/30-the-knight.png",
+  },
+  {
+    name: "Hubris",
+    image:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/perk-icons/killers/hubris.png",
+    teachable: "The Knight Teachable Perk",
+    killer:
+      "https://raw.githubusercontent.com/joeytierney/dbd-vue/develop/src/assets/character-portraits/killers/30-the-knight.png",
+  },
 
   // **************************************
   // GENERAL KILLER PERKS SECTION
